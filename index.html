@@ -368,12 +368,21 @@
   document.getElementById('retry-btn').addEventListener('click', () => show('picker'));
 
 
+  function nextSetIndex(pm) {
+    const key = 'quiz-set-index-' + pm;
+    const current = Number(localStorage.getItem(key) || 0);
+    const next = (current + 1) % 5;
+    localStorage.setItem(key, String(next));
+    return current; // use the one we hadn't shown yet, then advance for next time
+  }
+
   async function loadQuiz(pm) {
     currentPm = pm;
     show('status');
     document.getElementById('status-text').textContent = 'Loading your quiz…';
     try {
-      const res = await fetch('/api/get-quiz?pm=' + encodeURIComponent(pm));
+      const setIndex = nextSetIndex(pm);
+      const res = await fetch('/api/get-quiz?pm=' + encodeURIComponent(pm) + '&set=' + setIndex);
       const data = await res.json();
       if (!res.ok || data.error) {
         document.getElementById('status-text').textContent = data.error || 'Something went wrong. Try again.';
