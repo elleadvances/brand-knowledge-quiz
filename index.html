@@ -305,7 +305,7 @@
   <div id="screen-picker">
     <img src="logo.png" alt="AdVance" class="logo" />
     <h1 class="eyebrow-free-title">Client Questionnaire Quiz</h1>
-    <p class="subtitle">Pick a PM to quiz yourself on their active clients — or test everything at once.</p>
+    <p class="subtitle">Pick your name to quiz yourself on your active clients — or test everything at once.</p>
     <div class="pm-grid">
       <button class="pm-card" data-pm="Aldrin">Aldrin</button>
       <button class="pm-card" data-pm="Alexis">Alexis</button>
@@ -326,7 +326,7 @@
 
   <div id="screen-status" class="hidden">
     <div class="status-box" id="status-text">Loading\u2026</div>
-    <div style="text-align:center;"><span class="back-link" id="status-back">Choose a different PM</span></div>
+    <div style="text-align:center;"><span class="back-link" id="status-back">Choose a different name</span></div>
   </div>
 
   <div id="screen-results" class="hidden results">
@@ -334,7 +334,7 @@
     <h2 id="results-heading">Nice work</h2>
     <p class="subtitle" id="results-sub" style="margin-bottom:0;"></p>
     <div class="breakdown" id="breakdown"></div>
-    <button class="retry-btn" id="retry-btn">Try a different PM</button>
+    <button class="retry-btn" id="retry-btn">Let's go again</button>
   </div>
 
 </div>
@@ -541,6 +541,42 @@
     }
   }
 
+  // A short synthesized "crowd cheer" -- filtered noise swelling in and out,
+  // since there's no audio file to host. Layered under the note fanfare
+  // from playTone('complete') for a fuller finish sound.
+  function playCheer() {
+    try {
+      audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+      const now = audioCtx.currentTime;
+      const duration = 1.6;
+
+      const bufferSize = audioCtx.sampleRate * duration;
+      const buffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+      const data = buffer.getChannelData(0);
+      for (let i = 0; i < bufferSize; i++) data[i] = Math.random() * 2 - 1;
+
+      const noise = audioCtx.createBufferSource();
+      noise.buffer = buffer;
+
+      const bandpass = audioCtx.createBiquadFilter();
+      bandpass.type = 'bandpass';
+      bandpass.frequency.setValueAtTime(900, now);
+      bandpass.frequency.linearRampToValueAtTime(2200, now + duration * 0.5);
+      bandpass.frequency.linearRampToValueAtTime(1400, now + duration);
+      bandpass.Q.value = 0.6;
+
+      const gain = audioCtx.createGain();
+      gain.gain.setValueAtTime(0, now);
+      gain.gain.linearRampToValueAtTime(0.12, now + 0.25);
+      gain.gain.linearRampToValueAtTime(0.1, now + duration * 0.6);
+      gain.gain.exponentialRampToValueAtTime(0.001, now + duration);
+
+      noise.connect(bandpass).connect(gain).connect(audioCtx.destination);
+      noise.start(now);
+      noise.stop(now + duration);
+    } catch (e) { /* audio isn't critical -- fail silently */ }
+  }
+
   function showResults() {
     document.getElementById('score-fraction').textContent = correctCount + '/' + questions.length;
     const pct = Math.round((correctCount / questions.length) * 100);
@@ -569,7 +605,8 @@
 
     show('results');
     playTone('complete');
-    if (pct >= 80) launchConfetti();
+    playCheer();
+    launchConfetti();
   }
 </script>
 
