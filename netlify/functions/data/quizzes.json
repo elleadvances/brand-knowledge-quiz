@@ -732,131 +732,120 @@
         "client": "Titan Forge Peptides",
         "question": "Who is Titan Forge Peptides' target audience?",
         "options": [
-          "Everyday consumers looking for supplements",
-          "Medical doctors prescribing to patients",
           "Licensed researchers, qualified laboratories, and scientific professionals",
-          "Bodybuilders and personal trainers"
+          "Medical doctors prescribing to patients",
+          "Bodybuilders and personal trainers",
+          "Everyday consumers looking for supplements"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
         "client": "Caleb Tsai - STXND",
         "question": "What's the core brand message for the STXND laptop stand?",
         "options": [
-          "\"The most ergonomic stand on the market.\"",
           "\"Built for gamers, by gamers.\"",
           "\"The cheapest premium stand you'll find.\"",
-          "\"We're not selling a laptop stand. We're selling flow state.\""
+          "\"We're not selling a laptop stand. We're selling flow state.\"",
+          "\"The most ergonomic stand on the market.\""
         ],
-        "correctIndex": 3
+        "correctIndex": 2
       },
       {
         "client": "American Air Heating & Cooling",
         "question": "What tool does American Air want ads to drive people to?",
         "options": [
-          "Their new \"instant quote\" calculator on their website",
-          "A live chat with a technician",
+          "A financing pre-approval form",
           "A referral rewards signup page",
-          "A financing pre-approval form"
+          "Their new \"instant quote\" calculator on their website",
+          "A live chat with a technician"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
         "client": "House of Cars MN",
         "question": "What's House of Cars MN's advertising slogan?",
         "options": [
-          "\"Your credit, our problem\"",
-          "\"We put dreams in Driveways\"",
+          "\"Drive today, pay tomorrow\"",
           "\"Cars for every budget\"",
-          "\"Drive today, pay tomorrow\""
+          "\"Your credit, our problem\"",
+          "\"We put dreams in Driveways\""
         ],
-        "correctIndex": 1
+        "correctIndex": 3
       },
       {
         "client": "Nero Intimate Care",
         "question": "What condition does Nero Intimate Care's ointment target?",
         "options": [
-          "Razor burn",
           "Bad odor, smegma, and balanitis by eliminating root-cause bacteria and yeast",
           "Dry skin and eczema",
-          "Athlete's foot"
+          "Athlete's foot",
+          "Razor burn"
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "What is Lillie & Lee's hero product?",
         "options": [
+          "A weighted anxiety vest for dogs",
           "A dog probiotic yogurt",
           "A flea and tick collar",
-          "Calm and comfort oil for dogs",
-          "A weighted anxiety vest for dogs"
+          "Calm and comfort oil for dogs"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "Dustin Meier",
         "question": "What does 615 Peptides sell, and where is it based?",
         "options": [
+          "Nootropics based in Austin",
           "Skincare based in Los Angeles",
           "Protein supplements based in Miami",
-          "Research peptides, based in Nashville, Tennessee",
-          "Nootropics based in Austin"
+          "Research peptides, based in Nashville, Tennessee"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "Jeremy Zapata",
         "question": "What kind of software is Nexus One FSM?",
         "options": [
-          "Inventory software for retail stores",
           "Field service management software for contractors like plumbers and electricians",
+          "Accounting software for freelancers",
           "A CRM for real estate agents",
-          "Accounting software for freelancers"
+          "Inventory software for retail stores"
         ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What does Funding Vault's main $2,000 offer teach?",
-        "options": [
-          "How to day-trade stocks",
-          "How to refinance a mortgage",
-          "How to start a dropshipping business",
-          "How to get $100k-200k in 0% business funding without paying large fees to funding companies"
-        ],
-        "correctIndex": 3
+        "correctIndex": 0
       },
       {
         "client": "Jomell Thomas",
         "question": "What kind of brand is GirlieVault?",
         "options": [
-          "A children's clothing brand",
-          "A luxury skincare line",
           "A bold, colorful women's activewear brand focused on empowerment",
-          "A men's streetwear brand"
+          "A children's clothing brand",
+          "A men's streetwear brand",
+          "A luxury skincare line"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
         "client": "Lumen Scholar",
         "question": "What type of institution is Lumen Scholar?",
         "options": [
-          "An after-school tutoring center",
+          "A K-12 online public school based in Utah",
           "A private college prep academy",
           "A homeschool curriculum publisher",
-          "A K-12 online public school based in Utah"
+          "An after-school tutoring center"
         ],
-        "correctIndex": 3
+        "correctIndex": 0
       },
       {
         "client": "Never Inside / Smash Mount",
         "question": "What problem does the Smash Mount solve?",
         "options": [
-          "It's a phone case designed for truckers",
-          "It's a phone mount that uses unused dashboard cubby holes in vehicles",
           "It charges phones wirelessly while driving",
-          "It's a dash cam with built-in GPS"
+          "It's a phone mount that uses unused dashboard cubby holes in vehicles",
+          "It's a dash cam with built-in GPS",
+          "It's a phone case designed for truckers"
         ],
         "correctIndex": 1
       },
@@ -864,12 +853,34 @@
         "client": "Nouman Ali",
         "question": "What does Nouman Ali's business, Smells Plus, sell?",
         "options": [
-          "Air fresheners for cars",
-          "Fragrances and colognes",
           "Scented candles",
-          "Essential oils"
+          "Fragrances and colognes",
+          "Essential oils",
+          "Air fresheners for cars"
         ],
         "correctIndex": 1
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What service does Dark Knife Customs offer?",
+        "options": [
+          "A cutlery retail store",
+          "Kitchen appliance repair",
+          "Custom knife manufacturing only",
+          "Professional sharpening for knives, salon shears, carpentry tools, blades, and garden equipment"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What life-stage segment does Lillie & Lee call \"Senior Dog Caregivers\"?",
+        "options": [
+          "Ages 30-45, millennial dog moms",
+          "Ages 18-25, first-time pet owners",
+          "Breeders and professional dog trainers",
+          "Ages 55-70, deeply bonded owners focused on mobility, comfort, and quality of life"
+        ],
+        "correctIndex": 3
       }
     ],
     [
@@ -877,31 +888,31 @@
         "client": "Titan Forge Peptides",
         "question": "What must Titan Forge's advertising avoid saying?",
         "options": [
-          "Positioning products as medicines, supplements, or treatments for human or animal use",
-          "Comparing prices to competitors",
           "Mentioning any specific peptide by name",
-          "Using scientific or technical language"
+          "Using scientific or technical language",
+          "Positioning products as medicines, supplements, or treatments for human or animal use",
+          "Comparing prices to competitors"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
         "client": "Caleb Tsai - STXND",
         "question": "Which persona does the STXND client say people \"go fanatic\" for in ads?",
         "options": [
-          "College professors",
-          "DJs",
+          "Airline pilots",
           "Professional athletes",
-          "Airline pilots"
+          "DJs",
+          "College professors"
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
         "client": "American Air Heating & Cooling",
         "question": "What's a story point the founder wants to highlight?",
         "options": [
           "People often assume the company is a larger franchise, when it's actually locally owned and started from scratch in 2015",
-          "The founder was a firefighter before starting the business",
           "They're the only 24/7 HVAC company in the state",
+          "The founder was a firefighter before starting the business",
           "The company only services new construction homes"
         ],
         "correctIndex": 0
@@ -910,21 +921,21 @@
         "client": "House of Cars MN",
         "question": "What discount does House of Cars offer to customers who buy a vehicle from them?",
         "options": [
+          "50% off service if the vehicle was purchased there",
           "Free oil changes for life",
-          "A guaranteed buyback after 2 years",
           "Free extended warranty on all vehicles",
-          "50% off service if the vehicle was purchased there"
+          "A guaranteed buyback after 2 years"
         ],
-        "correctIndex": 3
+        "correctIndex": 0
       },
       {
         "client": "Nero Intimate Care",
         "question": "How did the founder come up with the product?",
         "options": [
+          "He licensed the formula from a European lab",
           "A dermatologist approached him with the formula",
-          "It started as a side project during nursing school",
           "He got balanitis himself and no existing product worked, so he developed his own",
-          "He licensed the formula from a European lab"
+          "It started as a side project during nursing school"
         ],
         "correctIndex": 2
       },
@@ -932,10 +943,10 @@
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "Where does the Lillie & Lee brand name come from?",
         "options": [
-          "A combination of the founders' first names",
+          "Two celebrity dogs the founder used to train",
           "Lillie, a rescue dog whose healing journey inspired the founder, Lee",
-          "The founders' two children",
-          "Two celebrity dogs the founder used to train"
+          "A combination of the founders' first names",
+          "The founders' two children"
         ],
         "correctIndex": 1
       },
@@ -943,76 +954,87 @@
         "client": "Dustin Meier",
         "question": "How do customers pay for orders on 615 Peptides?",
         "options": [
-          "Credit card checkout on the website",
-          "Cryptocurrency only",
+          "Cash on delivery",
           "By emailing their order details and paying via Venmo",
-          "Cash on delivery"
+          "Credit card checkout on the website",
+          "Cryptocurrency only"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
       },
       {
         "client": "Jeremy Zapata",
         "question": "How does Nexus One make money, since they don't charge a monthly subscription?",
         "options": [
+          "Selling customer data to advertisers",
           "A percentage of each contractor's revenue",
           "A one-time lifetime license fee",
-          "A transaction fee when customers make online payments through the platform",
-          "Selling customer data to advertisers"
+          "A transaction fee when customers make online payments through the platform"
         ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What credibility point does the founder use to establish authority?",
-        "options": [
-          "Built $1.1M in personal business credit and went from a 520 to an 850 credit score",
-          "Wrote a bestselling book on credit",
-          "Has a finance degree from an Ivy League school",
-          "Previously worked at a major bank"
-        ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Jomell Thomas",
         "question": "What's the \"Give Back Girls\" movement tied to GirlieVault?",
         "options": [
           "A modeling competition for new brand ambassadors",
-          "A community of women who volunteer, feed the homeless, and uplift others",
           "An annual fashion show event",
-          "A referral discount program"
+          "A referral discount program",
+          "A community of women who volunteer, feed the homeless, and uplift others"
         ],
-        "correctIndex": 1
+        "correctIndex": 3
       },
       {
         "client": "Lumen Scholar",
         "question": "What unique programs does Lumen Scholar highlight to stand out?",
         "options": [
           "A study-abroad partnership",
+          "A varsity esports league",
           "A motocross/dirt bike program and musical theater",
-          "An in-house culinary program",
-          "A varsity esports league"
+          "An in-house culinary program"
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
         "client": "Never Inside / Smash Mount",
         "question": "What's a notable detail about the founder's background?",
         "options": [
-          "He worked as an automotive engineer at Ford",
-          "He's a retired long-haul truck driver",
+          "He's a former NASCAR pit crew member",
           "He was once a survivalist on the show Naked and Afraid",
-          "He's a former NASCAR pit crew member"
+          "He's a retired long-haul truck driver",
+          "He worked as an automotive engineer at Ford"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
       },
       {
         "client": "Nouman Ali",
         "question": "What does Nouman say his customers really want, beyond the literal product?",
         "options": [
-          "To impress on social media",
+          "To find gift ideas for others",
           "To build a fragrance collection as an investment",
-          "To smell good",
-          "To find gift ideas for others"
+          "To impress on social media",
+          "To smell good"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "Who is the owner of Dark Knife Customs?",
+        "options": [
+          "Jeremy Marcus",
+          "Dan Frayko",
+          "Dennis Mataia",
+          "Michael, from Keystone Chrono Works"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What does Lillie & Lee say is the \"core objection beneath all others\" from customers?",
+        "options": [
+          "Price",
+          "Shipping speed",
+          "Trust",
+          "Ingredient sourcing"
         ],
         "correctIndex": 2
       }
@@ -1022,98 +1044,87 @@
         "client": "Titan Forge Peptides",
         "question": "What's Titan Forge's shipping offer?",
         "options": [
-          "Free international shipping on all orders",
-          "No shipping fees ever, regardless of order size",
           "Free US shipping on orders over $150",
-          "Same-day local delivery only"
+          "Same-day local delivery only",
+          "No shipping fees ever, regardless of order size",
+          "Free international shipping on all orders"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
         "client": "Caleb Tsai - STXND",
         "question": "What comparison does the client use to describe the stand's premium feel?",
         "options": [
-          "\"The Tesla of office furniture\"",
-          "\"The Rolex of laptop stands\" or \"The MacBook of laptop stands\"",
+          "\"The iPhone of accessories\"",
           "\"The Swiss Army knife of desk gear\"",
-          "\"The iPhone of accessories\""
+          "\"The Rolex of laptop stands\" or \"The MacBook of laptop stands\"",
+          "\"The Tesla of office furniture\""
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
         "client": "American Air Heating & Cooling",
         "question": "What's American Air's approximate annual revenue?",
         "options": [
           "About $45 million",
+          "About $4.5 million",
           "About $1 million",
-          "About $400,000",
-          "About $4.5 million"
+          "About $400,000"
         ],
-        "correctIndex": 3
+        "correctIndex": 1
       },
       {
         "client": "House of Cars MN",
         "question": "What price range does House of Cars specialize in?",
         "options": [
           "Only vehicles under $5,000",
+          "Exclusively electric vehicles",
           "Luxury vehicles over $75,000",
-          "Reliable vehicles under $20,000",
-          "Exclusively electric vehicles"
+          "Reliable vehicles under $20,000"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "Nero Intimate Care",
         "question": "Who is Nero's primary target market?",
         "options": [
-          "Elderly men with mobility issues",
           "Women seeking intimate skincare",
-          "Teenagers with acne",
-          "Largely uncircumcised men ages 18-54, particularly Hispanic and Asian men in the US"
+          "Elderly men with mobility issues",
+          "Largely uncircumcised men ages 18-54, particularly Hispanic and Asian men in the US",
+          "Teenagers with acne"
         ],
-        "correctIndex": 3
+        "correctIndex": 2
       },
       {
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "About what percentage of Lillie & Lee's business is subscription-based?",
         "options": [
+          "About 40%",
           "None - they don't offer subscriptions",
           "About 90%",
-          "About 40%",
           "About 5%"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
         "client": "Dustin Meier",
         "question": "What's 615 Peptides' brand color scheme?",
         "options": [
-          "Bright orange and yellow",
           "Earth tones like brown and tan",
           "Pastel pink and mint green",
-          "Black/dark blue with electric blue, white, and silver accents"
+          "Black/dark blue with electric blue, white, and silver accents",
+          "Bright orange and yellow"
         ],
-        "correctIndex": 3
+        "correctIndex": 2
       },
       {
         "client": "Jeremy Zapata",
         "question": "What's a feature Nexus One offers that's less common among competitors?",
         "options": [
-          "A dedicated call center for customers",
           "Drone-based job site inspections",
           "OCR receipt scanning that automatically reads purchased materials for inventory tracking",
-          "Built-in payroll processing"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What's Funding Vault's target return on ad spend (ROAS)?",
-        "options": [
-          "1x to 2x",
-          "6x to 7x",
-          "There's no ROAS target, just volume",
-          "20x to 30x"
+          "Built-in payroll processing",
+          "A dedicated call center for customers"
         ],
         "correctIndex": 1
       },
@@ -1121,20 +1132,20 @@
         "client": "Jomell Thomas",
         "question": "What personal story shaped the founding of GirlieVault?",
         "options": [
-          "Founder Jomell Thomas lost his mother and channeled that grief into building the brand",
-          "The founder previously worked in finance",
+          "The founder was a former professional athlete",
           "The brand started as a college class project",
-          "The founder was a former professional athlete"
+          "The founder previously worked in finance",
+          "Founder Jomell Thomas lost his mother, channeled that grief into building the brand, with support from a close friend"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Lumen Scholar",
         "question": "What's Lumen Scholar's motto?",
         "options": [
           "\"Learn. Explore. Do More.\"",
-          "\"School, Reimagined.\"",
           "\"Your Future Starts Here.\"",
+          "\"School, Reimagined.\"",
           "\"Education Without Limits.\""
         ],
         "correctIndex": 0
@@ -1144,20 +1155,42 @@
         "question": "What's Smash Mount's biggest-selling vehicle fit?",
         "options": [
           "The Ford F-150",
+          "The Honda Civic",
           "The Toyota Camry",
-          "The Freightliner Cascadia, covering about 40% of semi trucks on the road",
-          "The Honda Civic"
+          "The Freightliner Cascadia, covering about 40% of semi trucks on the road"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "Nouman Ali",
         "question": "What's Smells Plus' initial ad budget?",
         "options": [
-          "$200",
           "$20",
+          "$20,000",
           "$2,000",
-          "$20,000"
+          "$200"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What new service is Dark Knife Customs planning to add soon?",
+        "options": [
+          "Mobile knife sales at farmers markets",
+          "A subscription sharpening box",
+          "Online sharpening tutorials",
+          "Custom laser engraving"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What platform is Lillie & Lee's store built on for subscriptions?",
+        "options": [
+          "Recharge",
+          "Shopify Subscriptions API",
+          "Loop Subscriptions",
+          "Bold Subscriptions"
         ],
         "correctIndex": 0
       }
@@ -1167,21 +1200,21 @@
         "client": "Titan Forge Peptides",
         "question": "What's the brand's core three-word message?",
         "options": [
-          "\"Purity First, Always.\"",
           "\"Quality. Research. Reliability.\"",
-          "\"Pure. Potent. Proven.\"",
-          "\"Science You Can Trust.\""
+          "\"Science You Can Trust.\"",
+          "\"Purity First, Always.\"",
+          "\"Pure. Potent. Proven.\""
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "Caleb Tsai - STXND",
         "question": "What brand values does STXND explicitly push back against?",
         "options": [
+          "Minimalism and simplicity",
           "Remote work culture",
-          "Sustainability messaging",
           "Hustle culture and grind culture (\"sleep less, grind harder\")",
-          "Minimalism and simplicity"
+          "Sustainability messaging"
         ],
         "correctIndex": 2
       },
@@ -1200,179 +1233,179 @@
         "client": "House of Cars MN",
         "question": "What was the founder's early sales achievement?",
         "options": [
-          "He was salesman of the month his very first month, beating veteran salespeople",
-          "He opened three locations in his first year",
+          "He sold his first car at age 16",
           "He was previously a finance manager at a bank",
-          "He sold his first car at age 16"
+          "He opened three locations in his first year",
+          "He was salesman of the month his very first month, beating veteran salespeople"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Nero Intimate Care",
         "question": "What's Nero's claimed advantage over washes and creams?",
         "options": [
+          "It's the only FDA-approved option in its category",
           "It's the cheapest option on the market",
-          "It's a gel ointment that stays on all day and doesn't dry out skin like washes do",
           "It comes with a money-back guarantee",
-          "It's the only FDA-approved option in its category"
+          "It's a gel ointment that stays on all day and doesn't dry out skin like washes do"
         ],
-        "correctIndex": 1
+        "correctIndex": 3
       },
       {
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "What's Lillie & Lee's average subscriber lifetime value?",
         "options": [
           "Approximately $50",
-          "Approximately $250",
           "Approximately $2,500",
+          "Approximately $250",
           "Approximately $25"
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
         "client": "Dustin Meier",
         "question": "What shipping option does 615 Peptides offer for faster delivery?",
         "options": [
-          "Priority Mail, $10-15, estimated 1-3 business days",
           "International express only",
           "In-store pickup only",
+          "Priority Mail, $10-15, estimated 1-3 business days",
           "Same-day courier delivery"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
         "client": "Jeremy Zapata",
         "question": "Who are Nexus One's named competitors?",
         "options": [
+          "Square and Stripe",
           "Housecall Pro, Jobber, and Service Titan",
           "QuickBooks and Xero",
-          "Square and Stripe",
           "Salesforce and HubSpot"
         ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What backend fee does Funding Vault criticize other funding companies for charging?",
-        "options": [
-          "A flat $50 application fee",
-          "A 50% equity stake in the business",
-          "8-12% of total funding, versus Funding Vault's $2,000 course model",
-          "Nothing - other companies are free"
-        ],
-        "correctIndex": 2
+        "correctIndex": 1
       },
       {
         "client": "Jomell Thomas",
         "question": "What's GirlieVault's target age range?",
         "options": [
-          "18-35, with a sweet spot of 21-29",
-          "12-17",
           "45-65",
-          "There's no specific target age"
+          "12-17",
+          "There's no specific target age",
+          "18-35, with a sweet spot of 21-29"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Lumen Scholar",
         "question": "What does Lumen Scholar say is virtually non-existent at their school?",
         "options": [
-          "Standardized testing",
           "Homework",
-          "Bullying",
-          "Extracurricular activities"
+          "Standardized testing",
+          "Extracurricular activities",
+          "Bullying"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "Never Inside / Smash Mount",
         "question": "What guarantee does Smash Mount offer?",
         "options": [
-          "A lifetime warranty",
+          "A 90-day limited warranty",
           "No guarantee - all sales are final",
           "A 30-day money-back guarantee only",
-          "A 90-day limited warranty"
+          "A lifetime warranty"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Nouman Ali",
         "question": "Who are Smells Plus' named competitors?",
         "options": [
-          "Sephora and Ulta",
+          "Amazon and Walmart",
           "Jomashop, FragranceNet, and Intense Oud",
-          "Nordstrom and Macy's",
-          "Amazon and Walmart"
+          "Sephora and Ulta",
+          "Nordstrom and Macy's"
         ],
         "correctIndex": 1
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "Where is Dark Knife Customs located?",
+        "options": [
+          "Palm Beach Gardens, FL",
+          "Walla Walla, WA",
+          "Milford, PA",
+          "Nashville, TN"
+        ],
+        "correctIndex": 2
       }
     ],
     [
       {
         "client": "Titan Forge Peptides",
-        "question": "What emotions does Titan Forge want its brand to create?",
+        "question": "According to the questionnaire, what problem does Titan Forge aim to solve?",
         "options": [
-          "Trust, confidence, reliability, and professionalism",
-          "Luxury and exclusivity",
-          "Playfulness and humor",
-          "Excitement, urgency, and FOMO"
+          "Speeding up FDA approval for new peptides",
+          "Providing peptide dosing advice for consumers",
+          "Making peptides affordable for personal use",
+          "Making it easier for qualified researchers and labs to access reliable peptides with clear info and testing documentation"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Caleb Tsai - STXND",
-        "question": "What creative style did STXND call out as a massive opportunity?",
+        "question": "What viral ad example did the client cite as working well, and why?",
         "options": [
-          "Animated explainer videos",
-          "Coffee shop content, since everyone can relate to seeing people slouched over laptops",
-          "Celebrity endorsement videos",
-          "High-budget cinematic commercials"
+          "Guys working on a plane - it worked because it was polarizing and people had strong opinions either way",
+          "A student studying all night - because it was relatable",
+          "A DJ using it at a music festival - because it was aspirational",
+          "A CEO in a boardroom - because it looked professional"
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "American Air Heating & Cooling",
         "question": "What's the most common reason American Air loses a job?",
         "options": [
-          "Slow response times",
           "Limited service area",
-          "Pricing - they sit in the middle to upper end of the market",
-          "Poor online reviews"
+          "Slow response times",
+          "Poor online reviews",
+          "Pricing - they sit in the middle to upper end of the market"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
         "client": "House of Cars MN",
         "question": "What's House of Cars' daily ad budget?",
         "options": [
-          "About $50 a day",
-          "About $150 a day",
           "About $1,500 a day",
-          "About $15 a day"
+          "About $50 a day",
+          "About $15 a day",
+          "About $150 a day"
         ],
-        "correctIndex": 3
+        "correctIndex": 2
       },
       {
         "client": "Nero Intimate Care",
-        "question": "What discount offer does Nero want in its ads?",
+        "question": "What's Nero's estimated customer lifetime value?",
         "options": [
-          "Free shipping on all orders",
-          "A subscribe-and-save discount",
-          "Buy one get one free",
-          "10% off first-time orders"
+          "Around $600",
+          "Around $60",
+          "Around $10",
+          "Around $6,000"
         ],
-        "correctIndex": 3
+        "correctIndex": 0
       },
       {
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "Who are some of Lillie & Lee's named competitors?",
         "options": [
+          "Native Pet, Charlotte's Web, Zesty Paws, Pet Honesty, and Chill Paws",
+          "Hill's Science Diet",
           "Purina and Blue Buffalo",
-          "Native Pet, Charlotte's Web, Zesty Paws",
-          "Chewy and Petco",
-          "Hill's Science Diet"
+          "Chewy and Petco"
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "Dustin Meier",
@@ -1390,20 +1423,9 @@
         "question": "What was the total collected payment for Jeremy Zapata's plan?",
         "options": [
           "$5,000",
-          "$1,000",
           "$50,000",
+          "$1,000",
           "$500"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What's Funding Vault's current daily/monthly ad spend range?",
-        "options": [
-          "$10,000 initially, scaling toward $30,000+",
-          "$500,000/month",
-          "$1,000/year",
-          "$100 total for the whole campaign"
         ],
         "correctIndex": 0
       },
@@ -1411,8 +1433,8 @@
         "client": "Jomell Thomas",
         "question": "What's GirlieVault's first-order discount code?",
         "options": [
-          "GIRLPOWER",
           "VAULT15",
+          "GIRLPOWER",
           "WELCOME20",
           "GIVEBACK10"
         ],
@@ -1422,32 +1444,43 @@
         "client": "Lumen Scholar",
         "question": "What's Lumen Scholar's monthly ad budget?",
         "options": [
-          "No set budget",
           "Up to $5,000/month",
           "Up to $500/month",
+          "No set budget",
           "Up to $50,000/month"
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "Never Inside / Smash Mount",
-        "question": "What's Smash Mount's average customer lifetime value?",
+        "question": "How did the founder originally start making Smash Mounts?",
         "options": [
-          "Around $61",
-          "Around $610",
-          "Around $6",
-          "Around $6,100"
+          "He licensed the design from an automotive parts supplier",
+          "He got a 3D printer to experiment with and started selling a mount he made for his own truck on Etsy",
+          "He started by reselling a competitor's product",
+          "He raised funding specifically to manufacture it"
         ],
-        "correctIndex": 0
+        "correctIndex": 1
       },
       {
         "client": "Nouman Ali",
         "question": "What does Nouman say makes Smells Plus different from competitors?",
         "options": [
-          "The largest physical retail footprint",
-          "Exclusive celebrity-designed scents",
           "Good price and better customer service",
-          "A patented fragrance formula"
+          "The largest physical retail footprint",
+          "A patented fragrance formula",
+          "Exclusive celebrity-designed scents"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What past AdVance project did the Dark Knife Customs client specifically reference liking?",
+        "options": [
+          "A logo redesign for a different sharpening company",
+          "A video ad campaign from a prior client",
+          "A business card previously made for Michael at Keystone Chrono Works",
+          "A website built for a competitor"
         ],
         "correctIndex": 2
       }
@@ -2415,178 +2448,13 @@
   "ALL": [
     [
       {
-        "client": "Jeremy Zapata",
-        "question": "What kind of software is Nexus One FSM?",
-        "options": [
-          "Inventory software for retail stores",
-          "Field service management software for contractors like plumbers and electricians",
-          "A CRM for real estate agents",
-          "Accounting software for freelancers"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Jerimiah Elliot",
-        "question": "What's Geronimo Tackle's main product?",
-        "options": [
-          "Marine electronics and GPS",
-          "High-end offshore fishing equipment",
-          "Freshwater fly fishing rods",
-          "Boat trailers and towing equipment"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Caroline Nyakundi",
-        "question": "What service does Caroline Nyakundi's business, Alpha Massage, offer?",
-        "options": [
-          "Physical therapy and rehab",
-          "Acupuncture",
-          "Chiropractic adjustments",
-          "Massage therapy, including a signature \"Beat Me Up Massage\""
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "William Da Silva",
-        "question": "What is Psyhance's core philosophy about treatment?",
-        "options": [
-          "A 12-step recovery model",
-          "Helping clients reconnect with their \"authentic self,\" not just reducing symptoms",
-          "Group therapy exclusively",
-          "Medication-only treatment with no therapy"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Shtefan Gurbanov",
-        "question": "What is JetPipe Plumbing's $33 promotional offer?",
-        "options": [
-          "A free plumbing inspection",
-          "A $33 diagnostic fee waiver",
-          "A discount on their first hydro jetting service",
-          "Drain cleaning - \"or it's free\" if they can't clear the blockage"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Eli Esagoff | Amir Atighehchi",
-        "question": "What type of law firm is Pathway Law Firm?",
-        "options": [
-          "Personal injury (motor vehicle, rideshare, motorcycle, slip and fall)",
-          "Criminal defense",
-          "Family law and divorce",
-          "Immigration law"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Colin Shipp",
-        "question": "What's Colin Shipp's business model at Organic Client Engine?",
-        "options": [
-          "A done-for-you YouTube placement offer helping coaches and consultants grow their brand",
-          "A TikTok ad agency for e-commerce brands",
-          "A YouTube ad-buying service for SaaS companies",
-          "A course teaching people to start YouTube channels"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Sara Hasan",
-        "question": "What product does the Next-Step Stool company sell?",
-        "options": [
-          "A foldable, hookable step stool for kids as an alternative to bulky toddler towers",
-          "A car seat with adjustable height",
-          "A convertible baby crib",
-          "A high chair that grows with the child"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Sydnei Kelly",
-        "question": "What kind of business is Bliss Marketplace?",
-        "options": [
-          "A traditional thrift store",
-          "A flea market event organizer",
-          "An online-only vintage clothing reseller",
-          "A vintage and handmade collective that rents booth space to local vendors"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Ovadia Labaton #2",
-        "question": "What kind of products does The Perfect Jean sell?",
-        "options": [
-          "Women's activewear",
-          "Children's school uniforms",
-          "Luxury suits and formalwear",
-          "Men's premium basics like jeans, \"Denkhakis,\" shorts, and tees"
-        ],
-        "correctIndex": 3
-      },
-      {
         "client": "Nero Intimate Care",
         "question": "What condition does Nero Intimate Care's ointment target?",
         "options": [
-          "Razor burn",
           "Bad odor, smegma, and balanitis by eliminating root-cause bacteria and yeast",
           "Dry skin and eczema",
-          "Athlete's foot"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "David Sabo",
-        "question": "What two core services does Precision Exterior Cleaning offer?",
-        "options": [
-          "Gutter cleaning and roof repair",
-          "Carpet cleaning and pest control",
-          "Window cleaning and power washing",
-          "Pool cleaning and landscaping"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Casey Woodard",
-        "question": "What is Divine's core business?",
-        "options": [
-          "The largest paid Discord community for resellers (eBay, Amazon, Facebook Marketplace)",
-          "A stock trading education community",
-          "A wholesale supplier directory",
-          "A dropshipping course platform"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What does Funding Vault's main $2,000 offer teach?",
-        "options": [
-          "How to day-trade stocks",
-          "How to refinance a mortgage",
-          "How to start a dropshipping business",
-          "How to get $100k-200k in 0% business funding without paying large fees to funding companies"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Cosmo Grill #6",
-        "question": "What is Split Pay's core product?",
-        "options": [
-          "A roommate-matching app",
-          "A rent-to-own mortgage alternative",
-          "A credit card designed for renters",
-          "Letting renters split their rent into two smaller payments"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Yousuf Osmani",
-        "question": "What does Scooter Importer LLC sell?",
-        "options": [
-          "Motorcycles, ATVs, and powersports vehicles",
-          "Boats and personal watercraft",
-          "Golf carts",
-          "Electric bicycles only"
+          "Athlete's foot",
+          "Razor burn"
         ],
         "correctIndex": 0
       },
@@ -2602,48 +2470,37 @@
         "correctIndex": 0
       },
       {
-        "client": "Jake",
-        "question": "What does the ScreenHalt app do?",
+        "client": "Marlene Hamad",
+        "question": "In which two markets does Marlene Hamad work as a real estate advisor?",
         "options": [
-          "Blocks spam calls and texts",
-          "Schedules social media posts automatically",
-          "Blocks selected apps and tracks screen time to help users be more productive",
-          "Manages passwords across devices"
+          "Los Angeles and Miami",
+          "London and Singapore",
+          "New York City and Dubai",
+          "Chicago and Austin"
         ],
         "correctIndex": 2
       },
       {
-        "client": "Loyal Saints",
-        "question": "What does Loyal Saints sell?",
+        "client": "Never Inside / Smash Mount",
+        "question": "What problem does the Smash Mount solve?",
         "options": [
-          "Pet insurance",
-          "Dog grooming products",
-          "Premium freeze-dried dog food",
-          "Raw dog food delivery subscriptions"
+          "It charges phones wirelessly while driving",
+          "It's a phone mount that uses unused dashboard cubby holes in vehicles",
+          "It's a dash cam with built-in GPS",
+          "It's a phone case designed for truckers"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
       },
       {
-        "client": "Jomell Thomas",
-        "question": "What kind of brand is GirlieVault?",
+        "client": "Lumen Scholar",
+        "question": "What type of institution is Lumen Scholar?",
         "options": [
-          "A children's clothing brand",
-          "A luxury skincare line",
-          "A bold, colorful women's activewear brand focused on empowerment",
-          "A men's streetwear brand"
+          "A K-12 online public school based in Utah",
+          "A private college prep academy",
+          "A homeschool curriculum publisher",
+          "An after-school tutoring center"
         ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Nathan Young",
-        "question": "What is The Next Contestant's business model?",
-        "options": [
-          "A production company that licenses shows to networks",
-          "A talent agency representing working actors",
-          "A streaming platform for indie reality shows",
-          "Casting and producing original reality TV show concepts, recruiting applicants (not selling a product)"
-        ],
-        "correctIndex": 3
+        "correctIndex": 0
       },
       {
         "client": "Mikael & Evan",
@@ -2657,70 +2514,37 @@
         "correctIndex": 2
       },
       {
-        "client": "Channelle Jumper",
-        "question": "What is Signals Inc's main product?",
+        "client": "Colin Shipp",
+        "question": "What's Colin Shipp's business model at Organic Client Engine?",
         "options": [
-          "A protein bar line",
-          "An app that tracks macros",
-          "A meal-kit delivery subscription",
-          "A powder pre-mix that blends with ice and water into a filling meal shake"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Lillie & Lee / Asher House Wellness",
-        "question": "What is Lillie & Lee's hero product?",
-        "options": [
-          "A dog probiotic yogurt",
-          "A flea and tick collar",
-          "Calm and comfort oil for dogs",
-          "A weighted anxiety vest for dogs"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "George Villasenor #2",
-        "question": "What service does Blue's Poop Scoop provide?",
-        "options": [
-          "Dog training classes",
-          "Mobile dog grooming",
-          "Dog walking and pet sitting",
-          "Weekly or bi-weekly dog waste removal from customers' yards"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Lumen Scholar",
-        "question": "What type of institution is Lumen Scholar?",
-        "options": [
-          "An after-school tutoring center",
-          "A private college prep academy",
-          "A homeschool curriculum publisher",
-          "A K-12 online public school based in Utah"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Titan Forge Peptides",
-        "question": "Who is Titan Forge Peptides' target audience?",
-        "options": [
-          "Everyday consumers looking for supplements",
-          "Medical doctors prescribing to patients",
-          "Licensed researchers, qualified laboratories, and scientific professionals",
-          "Bodybuilders and personal trainers"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "RingDebt",
-        "question": "What does RingDebt's service actually do for clients?",
-        "options": [
-          "Uses the Fair Debt Collection Practices Act to challenge and eliminate qualifying unsecured debt",
-          "Negotiates lump-sum settlements with creditors",
-          "Provides personal loans to pay off credit cards",
-          "Consolidates debt into a single lower-interest loan"
+          "A done-for-you YouTube placement offer helping coaches and consultants grow their brand",
+          "A TikTok ad agency for e-commerce brands",
+          "A YouTube ad-buying service for SaaS companies",
+          "A course teaching people to start YouTube channels"
         ],
         "correctIndex": 0
+      },
+      {
+        "client": "Yusuf Esenboga",
+        "question": "What's Blinds Crafter's main service?",
+        "options": [
+          "Custom curtain sewing",
+          "Home security window film",
+          "In-home consultations and installation for blinds and window treatments",
+          "Smart home automation installation"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "William Da Silva",
+        "question": "What is Psyhance's core philosophy about treatment?",
+        "options": [
+          "A 12-step recovery model",
+          "Helping clients reconnect with their \"authentic self,\" not just reducing symptoms",
+          "Group therapy exclusively",
+          "Medication-only treatment with no therapy"
+        ],
+        "correctIndex": 1
       },
       {
         "client": "Dennis Mataia",
@@ -2734,37 +2558,136 @@
         "correctIndex": 2
       },
       {
-        "client": "Dustin Meier",
-        "question": "What does 615 Peptides sell, and where is it based?",
+        "client": "David Sabo",
+        "question": "What two core services does Precision Exterior Cleaning offer?",
         "options": [
-          "Skincare based in Los Angeles",
-          "Protein supplements based in Miami",
-          "Research peptides, based in Nashville, Tennessee",
-          "Nootropics based in Austin"
+          "Gutter cleaning and roof repair",
+          "Carpet cleaning and pest control",
+          "Window cleaning and power washing",
+          "Pool cleaning and landscaping"
         ],
         "correctIndex": 2
       },
       {
-        "client": "Jonathan Whipple",
-        "question": "What kind of clients does Scaling Contractors want to work with?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What is Lillie & Lee's hero product?",
         "options": [
-          "Only residential lawn care businesses",
-          "Businesses with under $100k in annual revenue",
-          "Solo handyman operations just starting out",
-          "Contractors doing $400k+ annual revenue (ideally $750k+) with multiple crews"
+          "A weighted anxiety vest for dogs",
+          "A dog probiotic yogurt",
+          "A flea and tick collar",
+          "Calm and comfort oil for dogs"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Zack Bedingfield",
-        "question": "What does KonstructIQ sell to general contractors?",
+        "client": "Jomell Thomas",
+        "question": "What kind of brand is GirlieVault?",
         "options": [
-          "AI-native subscription software for estimating, takeoffs, and job management",
-          "Insurance policies for contractors",
-          "A staffing agency for skilled trades",
-          "Physical building materials at wholesale prices"
+          "A bold, colorful women's activewear brand focused on empowerment",
+          "A children's clothing brand",
+          "A men's streetwear brand",
+          "A luxury skincare line"
         ],
         "correctIndex": 0
+      },
+      {
+        "client": "Casey Woodard",
+        "question": "What is Divine's core business?",
+        "options": [
+          "The largest paid Discord community for resellers (eBay, Amazon, Facebook Marketplace)",
+          "A stock trading education community",
+          "A wholesale supplier directory",
+          "A dropshipping course platform"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Steven Gooding",
+        "question": "What rebrand direction does Steven Gooding want for GoodRings?",
+        "options": [
+          "Becoming a subscription box service",
+          "Rebranding as a luxury diamond retailer",
+          "Expanding into wedding planning services",
+          "\"GoodRings - rings that do good\" - donating mosquito nets or clean water with every purchase"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Cosmo Grill #6",
+        "question": "What is Split Pay's core product?",
+        "options": [
+          "A roommate-matching app",
+          "A rent-to-own mortgage alternative",
+          "A credit card designed for renters",
+          "Letting renters split their rent into two smaller payments"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Caleb Tsai - STXND",
+        "question": "What's the core brand message for the STXND laptop stand?",
+        "options": [
+          "\"Built for gamers, by gamers.\"",
+          "\"The cheapest premium stand you'll find.\"",
+          "\"We're not selling a laptop stand. We're selling flow state.\"",
+          "\"The most ergonomic stand on the market.\""
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Titan Forge Peptides",
+        "question": "Who is Titan Forge Peptides' target audience?",
+        "options": [
+          "Licensed researchers, qualified laboratories, and scientific professionals",
+          "Medical doctors prescribing to patients",
+          "Bodybuilders and personal trainers",
+          "Everyday consumers looking for supplements"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Loyal Saints",
+        "question": "What does Loyal Saints sell?",
+        "options": [
+          "Pet insurance",
+          "Dog grooming products",
+          "Premium freeze-dried dog food",
+          "Raw dog food delivery subscriptions"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Sara Hasan",
+        "question": "What product does the Next-Step Stool company sell?",
+        "options": [
+          "A foldable, hookable step stool for kids as an alternative to bulky toddler towers",
+          "A car seat with adjustable height",
+          "A convertible baby crib",
+          "A high chair that grows with the child"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Yousuf Osmani",
+        "question": "What does Scooter Importer LLC sell?",
+        "options": [
+          "Motorcycles, ATVs, and powersports vehicles",
+          "Boats and personal watercraft",
+          "Golf carts",
+          "Electric bicycles only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Jake",
+        "question": "What does the ScreenHalt app do?",
+        "options": [
+          "Blocks spam calls and texts",
+          "Schedules social media posts automatically",
+          "Blocks selected apps and tracks screen time to help users be more productive",
+          "Manages passwords across devices"
+        ],
+        "correctIndex": 2
       },
       {
         "client": "Ryan Sarakul",
@@ -2781,32 +2704,54 @@
         "client": "House of Cars MN",
         "question": "What's House of Cars MN's advertising slogan?",
         "options": [
-          "\"Your credit, our problem\"",
-          "\"We put dreams in Driveways\"",
+          "\"Drive today, pay tomorrow\"",
           "\"Cars for every budget\"",
-          "\"Drive today, pay tomorrow\""
+          "\"Your credit, our problem\"",
+          "\"We put dreams in Driveways\""
         ],
-        "correctIndex": 1
+        "correctIndex": 3
       },
       {
-        "client": "Marlene Hamad",
-        "question": "In which two markets does Marlene Hamad work as a real estate advisor?",
+        "client": "Zack Bedingfield",
+        "question": "What does KonstructIQ sell to general contractors?",
         "options": [
-          "Los Angeles and Miami",
-          "London and Singapore",
-          "New York City and Dubai",
-          "Chicago and Austin"
+          "AI-native subscription software for estimating, takeoffs, and job management",
+          "Insurance policies for contractors",
+          "A staffing agency for skilled trades",
+          "Physical building materials at wholesale prices"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
-        "client": "Steven Gooding",
-        "question": "What rebrand direction does Steven Gooding want for GoodRings?",
+        "client": "Shtefan Gurbanov",
+        "question": "What is JetPipe Plumbing's $33 promotional offer?",
         "options": [
-          "Becoming a subscription box service",
-          "Rebranding as a luxury diamond retailer",
-          "Expanding into wedding planning services",
-          "\"GoodRings - rings that do good\" - donating mosquito nets or clean water with every purchase"
+          "A free plumbing inspection",
+          "A $33 diagnostic fee waiver",
+          "A discount on their first hydro jetting service",
+          "Drain cleaning - \"or it's free\" if they can't clear the blockage"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Dustin Meier",
+        "question": "What does 615 Peptides sell, and where is it based?",
+        "options": [
+          "Nootropics based in Austin",
+          "Skincare based in Los Angeles",
+          "Protein supplements based in Miami",
+          "Research peptides, based in Nashville, Tennessee"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Jonathan Whipple",
+        "question": "What kind of clients does Scaling Contractors want to work with?",
+        "options": [
+          "Only residential lawn care businesses",
+          "Businesses with under $100k in annual revenue",
+          "Solo handyman operations just starting out",
+          "Contractors doing $400k+ annual revenue (ideally $750k+) with multiple crews"
         ],
         "correctIndex": 3
       },
@@ -2814,34 +2759,111 @@
         "client": "American Air Heating & Cooling",
         "question": "What tool does American Air want ads to drive people to?",
         "options": [
-          "Their new \"instant quote\" calculator on their website",
-          "A live chat with a technician",
+          "A financing pre-approval form",
           "A referral rewards signup page",
-          "A financing pre-approval form"
+          "Their new \"instant quote\" calculator on their website",
+          "A live chat with a technician"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
-        "client": "Caleb Tsai - STXND",
-        "question": "What's the core brand message for the STXND laptop stand?",
+        "client": "Ovadia Labaton #2",
+        "question": "What kind of products does The Perfect Jean sell?",
         "options": [
-          "\"The most ergonomic stand on the market.\"",
-          "\"Built for gamers, by gamers.\"",
-          "\"The cheapest premium stand you'll find.\"",
-          "\"We're not selling a laptop stand. We're selling flow state.\""
+          "Women's activewear",
+          "Children's school uniforms",
+          "Luxury suits and formalwear",
+          "Men's premium basics like jeans, \"Denkhakis,\" shorts, and tees"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Yusuf Esenboga",
-        "question": "What's Blinds Crafter's main service?",
+        "client": "RingDebt",
+        "question": "What does RingDebt's service actually do for clients?",
         "options": [
-          "Custom curtain sewing",
-          "Home security window film",
-          "In-home consultations and installation for blinds and window treatments",
-          "Smart home automation installation"
+          "Uses the Fair Debt Collection Practices Act to challenge and eliminate qualifying unsecured debt",
+          "Negotiates lump-sum settlements with creditors",
+          "Provides personal loans to pay off credit cards",
+          "Consolidates debt into a single lower-interest loan"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
+      },
+      {
+        "client": "Jeremy Zapata",
+        "question": "What kind of software is Nexus One FSM?",
+        "options": [
+          "Field service management software for contractors like plumbers and electricians",
+          "Accounting software for freelancers",
+          "A CRM for real estate agents",
+          "Inventory software for retail stores"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Eli Esagoff | Amir Atighehchi",
+        "question": "What type of law firm is Pathway Law Firm?",
+        "options": [
+          "Personal injury (motor vehicle, rideshare, motorcycle, slip and fall)",
+          "Criminal defense",
+          "Family law and divorce",
+          "Immigration law"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Sydnei Kelly",
+        "question": "What kind of business is Bliss Marketplace?",
+        "options": [
+          "A traditional thrift store",
+          "A flea market event organizer",
+          "An online-only vintage clothing reseller",
+          "A vintage and handmade collective that rents booth space to local vendors"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Channelle Jumper",
+        "question": "What is Signals Inc's main product?",
+        "options": [
+          "A protein bar line",
+          "An app that tracks macros",
+          "A meal-kit delivery subscription",
+          "A powder pre-mix that blends with ice and water into a filling meal shake"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Caroline Nyakundi",
+        "question": "What service does Caroline Nyakundi's business, Alpha Massage, offer?",
+        "options": [
+          "Physical therapy and rehab",
+          "Acupuncture",
+          "Chiropractic adjustments",
+          "Massage therapy, including a signature \"Beat Me Up Massage\""
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Jerimiah Elliot",
+        "question": "What's Geronimo Tackle's main product?",
+        "options": [
+          "Marine electronics and GPS",
+          "High-end offshore fishing equipment",
+          "Freshwater fly fishing rods",
+          "Boat trailers and towing equipment"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What service does Dark Knife Customs offer?",
+        "options": [
+          "A cutlery retail store",
+          "Kitchen appliance repair",
+          "Custom knife manufacturing only",
+          "Professional sharpening for knives, salon shears, carpentry tools, blades, and garden equipment"
+        ],
+        "correctIndex": 3
       },
       {
         "client": "Jeremy Marcus",
@@ -2866,213 +2888,59 @@
         "correctIndex": 3
       },
       {
-        "client": "Never Inside / Smash Mount",
-        "question": "What problem does the Smash Mount solve?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What life-stage segment does Lillie & Lee call \"Senior Dog Caregivers\"?",
         "options": [
-          "It's a phone case designed for truckers",
-          "It's a phone mount that uses unused dashboard cubby holes in vehicles",
-          "It charges phones wirelessly while driving",
-          "It's a dash cam with built-in GPS"
+          "Ages 30-45, millennial dog moms",
+          "Ages 18-25, first-time pet owners",
+          "Breeders and professional dog trainers",
+          "Ages 55-70, deeply bonded owners focused on mobility, comfort, and quality of life"
         ],
-        "correctIndex": 1
+        "correctIndex": 3
+      },
+      {
+        "client": "George Villasenor #2",
+        "question": "What service does Blue's Poop Scoop provide?",
+        "options": [
+          "Dog training classes",
+          "Mobile dog grooming",
+          "Dog walking and pet sitting",
+          "Weekly or bi-weekly dog waste removal from customers' yards"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Nathan Young",
+        "question": "What is The Next Contestant's business model?",
+        "options": [
+          "A production company that licenses shows to networks",
+          "A talent agency representing working actors",
+          "A streaming platform for indie reality shows",
+          "Casting and producing original reality TV show concepts, recruiting applicants (not selling a product)"
+        ],
+        "correctIndex": 3
       },
       {
         "client": "Nouman Ali",
         "question": "What does Nouman Ali's business, Smells Plus, sell?",
         "options": [
-          "Air fresheners for cars",
-          "Fragrances and colognes",
           "Scented candles",
-          "Essential oils"
+          "Fragrances and colognes",
+          "Essential oils",
+          "Air fresheners for cars"
         ],
         "correctIndex": 1
       }
     ],
     [
       {
-        "client": "Ovadia Labaton #2",
-        "question": "What's a key selling point of The Perfect Jean's fit?",
+        "client": "Dark Knife Customs",
+        "question": "Who is the owner of Dark Knife Customs?",
         "options": [
-          "Custom-tailored for every customer",
-          "A wide size range - waist sizes from 26 to 52",
-          "Only sold in one universal size",
-          "Only available in three colors"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Jake",
-        "question": "What's a way ScreenHalt differentiates itself from competitors like Opal and Be Present?",
-        "options": [
-          "It's more streamlined and privacy-first - data never leaves the user's device",
-          "It includes a built-in social leaderboard",
-          "It's the only free option on the market",
-          "It requires no setup at all"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "David Sabo",
-        "question": "What does David say sets Precision Exterior Cleaning apart from competitors?",
-        "options": [
-          "A lifetime results guarantee",
-          "24/7 emergency service availability",
-          "The lowest price in the market, guaranteed",
-          "Consistent, reliable scheduling and personalized service, instead of premium pricing or inconsistent results"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Jeremy Marcus",
-        "question": "What's Duda Restoration's key differentiator versus competitors like SERVPRO?",
-        "options": [
-          "Exclusively works with insurance-approved vendors",
-          "24-hour guaranteed response time",
-          "The only licensed restoration company in Florida",
-          "No liens, no money upfront, and no credit checks"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Never Inside / Smash Mount",
-        "question": "What's a notable detail about the founder's background?",
-        "options": [
-          "He worked as an automotive engineer at Ford",
-          "He's a retired long-haul truck driver",
-          "He was once a survivalist on the show Naked and Afraid",
-          "He's a former NASCAR pit crew member"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Yusuf Esenboga",
-        "question": "How does Blinds Crafter price its motorized shade options compared to competitors?",
-        "options": [
-          "About double the price but with a lifetime warranty",
-          "The same price as competitors, but with faster installation",
-          "They don't offer motorized options",
-          "Around $100-150 vs. competitors' $200-400"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Lillie & Lee / Asher House Wellness",
-        "question": "Where does the Lillie & Lee brand name come from?",
-        "options": [
-          "A combination of the founders' first names",
-          "Lillie, a rescue dog whose healing journey inspired the founder, Lee",
-          "The founders' two children",
-          "Two celebrity dogs the founder used to train"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Channelle Jumper",
-        "question": "What's notable about the founder's background?",
-        "options": [
-          "She's a Princeton-trained PhD scientist who previously raised $50M for a biotech company before bootstrapping Signals",
-          "She was a nutrition influencer before founding the company",
-          "She's a former Olympic athlete",
-          "She started the company after working as a chef"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "RingDebt",
-        "question": "How much unsecured debt does someone generally need to qualify for RingDebt?",
-        "options": [
-          "There's no minimum",
-          "$50,000 or more",
-          "$1,000 or more",
-          "$8,000 or more"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Jeremy Zapata",
-        "question": "How does Nexus One make money, since they don't charge a monthly subscription?",
-        "options": [
-          "A percentage of each contractor's revenue",
-          "A one-time lifetime license fee",
-          "A transaction fee when customers make online payments through the platform",
-          "Selling customer data to advertisers"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "William Da Silva",
-        "question": "What's one of the most common objections Psyhance's clients have?",
-        "options": [
-          "Preference for in-person only appointments",
-          "Fear or stigma around taking psychiatric medication",
-          "Doubts about telehealth quality",
-          "Concerns about the cost of sessions"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Loyal Saints",
-        "question": "What's one of Loyal Saints' stated selling points?",
-        "options": [
-          "No GMO, corn, or soy, and made in the USA",
-          "Vet-prescribed only",
-          "Lowest price guarantee in the pet food industry",
-          "Made fresh and delivered same-day"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Dennis Mataia",
-        "question": "What personal story led the founder to start FixxyApp?",
-        "options": [
-          "He worked at Yelp and saw its flaws firsthand",
-          "He spent hours failing to find someone to repair his fridge and ended up throwing it away and buying new",
-          "He started it after a bad experience with Craigslist",
-          "He was a contractor who wanted a better way to find clients"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Ryan Sarakul",
-        "question": "How has CRM Group primarily gotten clients so far?",
-        "options": [
-          "A large paid ad budget",
-          "Purely through referrals, with no clear pricing structure",
-          "Cold outreach on LinkedIn",
-          "A partnership with a major ad agency"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Mark Hopper",
-        "question": "What's SnapTrack's key design advantage over competitors?",
-        "options": [
-          "It comes with a mobile app for remote control",
-          "It's the only track sold at major retailers",
-          "A patented locking design where lights snap directly into the track",
-          "It's the only track available in every color"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Nero Intimate Care",
-        "question": "How did the founder come up with the product?",
-        "options": [
-          "A dermatologist approached him with the formula",
-          "It started as a side project during nursing school",
-          "He got balanitis himself and no existing product worked, so he developed his own",
-          "He licensed the formula from a European lab"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Eli Esagoff | Amir Atighehchi",
-        "question": "What's a proof point Pathway uses to show they get results?",
-        "options": [
-          "A same-day case decision guarantee",
-          "A case where another attorney was ready to settle for $25,000 and they recovered $2,000,000",
-          "Over 500 five-star Google reviews",
-          "A 98% case acceptance rate"
+          "Jeremy Marcus",
+          "Dan Frayko",
+          "Dennis Mataia",
+          "Michael, from Keystone Chrono Works"
         ],
         "correctIndex": 1
       },
@@ -3088,134 +2956,24 @@
         "correctIndex": 3
       },
       {
-        "client": "American Air Heating & Cooling",
-        "question": "What's a story point the founder wants to highlight?",
+        "client": "Channelle Jumper",
+        "question": "What's notable about the founder's background?",
         "options": [
-          "People often assume the company is a larger franchise, when it's actually locally owned and started from scratch in 2015",
-          "The founder was a firefighter before starting the business",
-          "They're the only 24/7 HVAC company in the state",
-          "The company only services new construction homes"
+          "She's a Princeton-trained PhD scientist who previously raised $50M for a biotech company before bootstrapping Signals",
+          "She was a nutrition influencer before founding the company",
+          "She's a former Olympic athlete",
+          "She started the company after working as a chef"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Jonathan Whipple",
-        "question": "How does Scaling Contractors structure its pricing?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What does Lillie & Lee say is the \"core objection beneath all others\" from customers?",
         "options": [
-          "A percentage of the contractor's total annual revenue",
-          "Performance-based - a retainer only once leads are coming in",
-          "A flat one-time setup fee with no ongoing cost",
-          "Pay only if a job is completed and paid for"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Colin Shipp",
-        "question": "What does Colin say makes him different from other YouTube-focused agencies?",
-        "options": [
-          "He guarantees a minimum number of views per video",
-          "He's made over $15M from organic YouTube longform himself and focuses on targeted views that convert to clients, not vanity view counts",
-          "He only works with celebrities and influencers",
-          "He offers the lowest price in the market"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Casey Woodard",
-        "question": "What does Divine say sets it apart from competitors like eMoney?",
-        "options": [
-          "It's the largest, highest-reviewed community and covers more niches (pokemon, vinyl, sneakers, botting) at a higher level",
-          "It's the cheapest option in the market",
-          "It offers a money-back guarantee on all profits",
-          "It only focuses on one single reselling niche"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Cosmo Grill #6",
-        "question": "What creative style did the Split Pay client specifically ask for?",
-        "options": [
-          "Calm, ASMR-style unboxing videos",
-          "\"Rage-bait style\" ads designed to spark debate and comments",
-          "Testimonial-only interview format",
-          "Animated explainer videos"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Caroline Nyakundi",
-        "question": "What's a proof point Alpha Massage uses for credibility?",
-        "options": [
-          "Certified by the American Medical Association",
-          "Over 1,500 five-star reviews",
-          "Featured on a national TV morning show",
-          "Endorsed by a professional sports team"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What credibility point does the founder use to establish authority?",
-        "options": [
-          "Built $1.1M in personal business credit and went from a 520 to an 850 credit score",
-          "Wrote a bestselling book on credit",
-          "Has a finance degree from an Ivy League school",
-          "Previously worked at a major bank"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "House of Cars MN",
-        "question": "What discount does House of Cars offer to customers who buy a vehicle from them?",
-        "options": [
-          "Free oil changes for life",
-          "A guaranteed buyback after 2 years",
-          "Free extended warranty on all vehicles",
-          "50% off service if the vehicle was purchased there"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Nathan Young",
-        "question": "What's one show concept The Next Contestant is developing?",
-        "options": [
-          "A talent show for musicians",
-          "A dating show set on a private island",
-          "A cooking competition for home chefs",
-          "The Cleanse, where contestants go 60 days without their phone"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Dustin Meier",
-        "question": "How do customers pay for orders on 615 Peptides?",
-        "options": [
-          "Credit card checkout on the website",
-          "Cryptocurrency only",
-          "By emailing their order details and paying via Venmo",
-          "Cash on delivery"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Caleb Tsai - STXND",
-        "question": "Which persona does the STXND client say people \"go fanatic\" for in ads?",
-        "options": [
-          "College professors",
-          "DJs",
-          "Professional athletes",
-          "Airline pilots"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Nouman Ali",
-        "question": "What does Nouman say his customers really want, beyond the literal product?",
-        "options": [
-          "To impress on social media",
-          "To build a fragrance collection as an investment",
-          "To smell good",
-          "To find gift ideas for others"
+          "Price",
+          "Shipping speed",
+          "Trust",
+          "Ingredient sourcing"
         ],
         "correctIndex": 2
       },
@@ -3231,79 +2989,46 @@
         "correctIndex": 3
       },
       {
-        "client": "Yousuf Osmani",
-        "question": "What's the founder's origin story for Scooter Importer?",
+        "client": "Nathan Young",
+        "question": "What's one show concept The Next Contestant is developing?",
         "options": [
-          "A small immigrant family that started with just one scooter",
-          "Started as an online-only business before opening a storefront",
-          "A former motorcycle racer who retired to open a shop",
-          "A franchise expansion from a larger dealer chain"
+          "A talent show for musicians",
+          "A dating show set on a private island",
+          "A cooking competition for home chefs",
+          "The Cleanse, where contestants go 60 days without their phone"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Loyal Saints",
+        "question": "What's one of Loyal Saints' stated selling points?",
+        "options": [
+          "No GMO, corn, or soy, and made in the USA",
+          "Vet-prescribed only",
+          "Lowest price guarantee in the pet food industry",
+          "Made fresh and delivered same-day"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Titan Forge Peptides",
-        "question": "What must Titan Forge's advertising avoid saying?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "Where does the Lillie & Lee brand name come from?",
         "options": [
-          "Positioning products as medicines, supplements, or treatments for human or animal use",
-          "Comparing prices to competitors",
-          "Mentioning any specific peptide by name",
-          "Using scientific or technical language"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Steven Gooding",
-        "question": "What's GoodRings' most common business objection?",
-        "options": [
-          "Competitors quickly copy new designs and undercut on price",
-          "Customers don't trust online ring sizing",
-          "Rings are considered too expensive for the quality",
-          "Shipping times are too long"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Jomell Thomas",
-        "question": "What's the \"Give Back Girls\" movement tied to GirlieVault?",
-        "options": [
-          "A modeling competition for new brand ambassadors",
-          "A community of women who volunteer, feed the homeless, and uplift others",
-          "An annual fashion show event",
-          "A referral discount program"
+          "Two celebrity dogs the founder used to train",
+          "Lillie, a rescue dog whose healing journey inspired the founder, Lee",
+          "A combination of the founders' first names",
+          "The founders' two children"
         ],
         "correctIndex": 1
       },
       {
-        "client": "Jerimiah Elliot",
-        "question": "According to the founder, what are most of Geronimo Tackle's customers really buying beyond the fish?",
+        "client": "Jonathan Whipple",
+        "question": "How does Scaling Contractors structure its pricing?",
         "options": [
-          "Bragging rights on social media",
-          "An investment that appreciates in value",
-          "Peace and escape offshore, away from cell service and daily life",
-          "A family bonding tradition"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Mikael & Evan",
-        "question": "What's an example success story GetListings.com uses in their marketing?",
-        "options": [
-          "A 22-year-old agent who became a millionaire in 6 months",
-          "Glenn, 71 and not tech-savvy, made $37K commission his first month without recording a video himself",
-          "A brokerage that eliminated cold calling company-wide",
-          "A team of 50 agents who all quadrupled their sales"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "David Pasc",
-        "question": "What's one of PowerFox Media's scale claims?",
-        "options": [
-          "Operating in 50+ countries",
-          "$200M+ in media spend and 10M+ leads generated",
-          "Over 1 million paying customers",
-          "$1B+ in annual revenue"
+          "A percentage of the contractor's total annual revenue",
+          "Performance-based - a retainer only once leads are coming in",
+          "A flat one-time setup fee with no ongoing cost",
+          "Pay only if a job is completed and paid for"
         ],
         "correctIndex": 1
       },
@@ -3319,17 +3044,6 @@
         "correctIndex": 1
       },
       {
-        "client": "George Villasenor #2",
-        "question": "What's Blue's Poop Scoop's main guarantee?",
-        "options": [
-          "Price matching with any competitor",
-          "A 30-day money-back guarantee with no contracts and cancel-anytime",
-          "Unlimited visits per month for one flat fee",
-          "Same-day service or it's free"
-        ],
-        "correctIndex": 1
-      },
-      {
         "client": "Marlene Hamad",
         "question": "What does Marlene say makes her different from other agents?",
         "options": [
@@ -3339,6 +3053,94 @@
           "She only works with first-time homebuyers"
         ],
         "correctIndex": 1
+      },
+      {
+        "client": "Dennis Mataia",
+        "question": "What personal story led the founder to start FixxyApp?",
+        "options": [
+          "He worked at Yelp and saw its flaws firsthand",
+          "He spent hours failing to find someone to repair his fridge and ended up throwing it away and buying new",
+          "He started it after a bad experience with Craigslist",
+          "He was a contractor who wanted a better way to find clients"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Jerimiah Elliot",
+        "question": "According to the founder, what are most of Geronimo Tackle's customers really buying beyond the fish?",
+        "options": [
+          "Bragging rights on social media",
+          "An investment that appreciates in value",
+          "Peace and escape offshore, away from cell service and daily life",
+          "A family bonding tradition"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Eli Esagoff | Amir Atighehchi",
+        "question": "What's a proof point Pathway uses to show they get results?",
+        "options": [
+          "A same-day case decision guarantee",
+          "A case where another attorney was ready to settle for $25,000 and they recovered $2,000,000",
+          "Over 500 five-star Google reviews",
+          "A 98% case acceptance rate"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Jeremy Zapata",
+        "question": "How does Nexus One make money, since they don't charge a monthly subscription?",
+        "options": [
+          "Selling customer data to advertisers",
+          "A percentage of each contractor's revenue",
+          "A one-time lifetime license fee",
+          "A transaction fee when customers make online payments through the platform"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Nero Intimate Care",
+        "question": "How did the founder come up with the product?",
+        "options": [
+          "He licensed the formula from a European lab",
+          "A dermatologist approached him with the formula",
+          "He got balanitis himself and no existing product worked, so he developed his own",
+          "It started as a side project during nursing school"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Never Inside / Smash Mount",
+        "question": "What's a notable detail about the founder's background?",
+        "options": [
+          "He's a former NASCAR pit crew member",
+          "He was once a survivalist on the show Naked and Afraid",
+          "He's a retired long-haul truck driver",
+          "He worked as an automotive engineer at Ford"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "House of Cars MN",
+        "question": "What discount does House of Cars offer to customers who buy a vehicle from them?",
+        "options": [
+          "50% off service if the vehicle was purchased there",
+          "Free oil changes for life",
+          "Free extended warranty on all vehicles",
+          "A guaranteed buyback after 2 years"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Jomell Thomas",
+        "question": "What's the \"Give Back Girls\" movement tied to GirlieVault?",
+        "options": [
+          "A modeling competition for new brand ambassadors",
+          "An annual fashion show event",
+          "A referral discount program",
+          "A community of women who volunteer, feed the homeless, and uplift others"
+        ],
+        "correctIndex": 3
       },
       {
         "client": "Zack Bedingfield",
@@ -3352,94 +3154,281 @@
         "correctIndex": 3
       },
       {
+        "client": "George Villasenor #2",
+        "question": "What's Blue's Poop Scoop's main guarantee?",
+        "options": [
+          "Price matching with any competitor",
+          "A 30-day money-back guarantee with no contracts and cancel-anytime",
+          "Unlimited visits per month for one flat fee",
+          "Same-day service or it's free"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Mark Hopper",
+        "question": "What's SnapTrack's key design advantage over competitors?",
+        "options": [
+          "It comes with a mobile app for remote control",
+          "It's the only track sold at major retailers",
+          "A patented locking design where lights snap directly into the track",
+          "It's the only track available in every color"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Cosmo Grill #6",
+        "question": "What creative style did the Split Pay client specifically ask for?",
+        "options": [
+          "Calm, ASMR-style unboxing videos",
+          "\"Rage-bait style\" ads designed to spark debate and comments",
+          "Testimonial-only interview format",
+          "Animated explainer videos"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Ryan Sarakul",
+        "question": "How has CRM Group primarily gotten clients so far?",
+        "options": [
+          "A large paid ad budget",
+          "Purely through referrals, with no clear pricing structure",
+          "Cold outreach on LinkedIn",
+          "A partnership with a major ad agency"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Jeremy Marcus",
+        "question": "What's Duda Restoration's key differentiator versus competitors like SERVPRO?",
+        "options": [
+          "Exclusively works with insurance-approved vendors",
+          "24-hour guaranteed response time",
+          "The only licensed restoration company in Florida",
+          "No liens, no money upfront, and no credit checks"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Nouman Ali",
+        "question": "What does Nouman say his customers really want, beyond the literal product?",
+        "options": [
+          "To find gift ideas for others",
+          "To build a fragrance collection as an investment",
+          "To impress on social media",
+          "To smell good"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Casey Woodard",
+        "question": "What does Divine say sets it apart from competitors like eMoney?",
+        "options": [
+          "It's the largest, highest-reviewed community and covers more niches (pokemon, vinyl, sneakers, botting) at a higher level",
+          "It's the cheapest option in the market",
+          "It offers a money-back guarantee on all profits",
+          "It only focuses on one single reselling niche"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Yousuf Osmani",
+        "question": "What's the founder's origin story for Scooter Importer?",
+        "options": [
+          "A small immigrant family that started with just one scooter",
+          "Started as an online-only business before opening a storefront",
+          "A former motorcycle racer who retired to open a shop",
+          "A franchise expansion from a larger dealer chain"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "David Sabo",
+        "question": "What does David say sets Precision Exterior Cleaning apart from competitors?",
+        "options": [
+          "A lifetime results guarantee",
+          "24/7 emergency service availability",
+          "The lowest price in the market, guaranteed",
+          "Consistent, reliable scheduling and personalized service, instead of premium pricing or inconsistent results"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "William Da Silva",
+        "question": "What's one of the most common objections Psyhance's clients have?",
+        "options": [
+          "Preference for in-person only appointments",
+          "Fear or stigma around taking psychiatric medication",
+          "Doubts about telehealth quality",
+          "Concerns about the cost of sessions"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "RingDebt",
+        "question": "How much unsecured debt does someone generally need to qualify for RingDebt?",
+        "options": [
+          "There's no minimum",
+          "$50,000 or more",
+          "$1,000 or more",
+          "$8,000 or more"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Jake",
+        "question": "What's a way ScreenHalt differentiates itself from competitors like Opal and Be Present?",
+        "options": [
+          "It's more streamlined and privacy-first - data never leaves the user's device",
+          "It includes a built-in social leaderboard",
+          "It's the only free option on the market",
+          "It requires no setup at all"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Dustin Meier",
+        "question": "How do customers pay for orders on 615 Peptides?",
+        "options": [
+          "Cash on delivery",
+          "By emailing their order details and paying via Venmo",
+          "Credit card checkout on the website",
+          "Cryptocurrency only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "American Air Heating & Cooling",
+        "question": "What's a story point the founder wants to highlight?",
+        "options": [
+          "People often assume the company is a larger franchise, when it's actually locally owned and started from scratch in 2015",
+          "They're the only 24/7 HVAC company in the state",
+          "The founder was a firefighter before starting the business",
+          "The company only services new construction homes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Caroline Nyakundi",
+        "question": "What's a proof point Alpha Massage uses for credibility?",
+        "options": [
+          "Certified by the American Medical Association",
+          "Over 1,500 five-star reviews",
+          "Featured on a national TV morning show",
+          "Endorsed by a professional sports team"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Mikael & Evan",
+        "question": "What's an example success story GetListings.com uses in their marketing?",
+        "options": [
+          "A 22-year-old agent who became a millionaire in 6 months",
+          "Glenn, 71 and not tech-savvy, made $37K commission his first month without recording a video himself",
+          "A brokerage that eliminated cold calling company-wide",
+          "A team of 50 agents who all quadrupled their sales"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Caleb Tsai - STXND",
+        "question": "Which persona does the STXND client say people \"go fanatic\" for in ads?",
+        "options": [
+          "Airline pilots",
+          "Professional athletes",
+          "DJs",
+          "College professors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Steven Gooding",
+        "question": "What's GoodRings' most common business objection?",
+        "options": [
+          "Competitors quickly copy new designs and undercut on price",
+          "Customers don't trust online ring sizing",
+          "Rings are considered too expensive for the quality",
+          "Shipping times are too long"
+        ],
+        "correctIndex": 0
+      },
+      {
         "client": "Lumen Scholar",
         "question": "What unique programs does Lumen Scholar highlight to stand out?",
         "options": [
           "A study-abroad partnership",
+          "A varsity esports league",
           "A motocross/dirt bike program and musical theater",
-          "An in-house culinary program",
-          "A varsity esports league"
+          "An in-house culinary program"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Ovadia Labaton #2",
+        "question": "What's a key selling point of The Perfect Jean's fit?",
+        "options": [
+          "Custom-tailored for every customer",
+          "A wide size range - waist sizes from 26 to 52",
+          "Only sold in one universal size",
+          "Only available in three colors"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "David Pasc",
+        "question": "What's one of PowerFox Media's scale claims?",
+        "options": [
+          "Operating in 50+ countries",
+          "$200M+ in media spend and 10M+ leads generated",
+          "Over 1 million paying customers",
+          "$1B+ in annual revenue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Titan Forge Peptides",
+        "question": "What must Titan Forge's advertising avoid saying?",
+        "options": [
+          "Mentioning any specific peptide by name",
+          "Using scientific or technical language",
+          "Positioning products as medicines, supplements, or treatments for human or animal use",
+          "Comparing prices to competitors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Yusuf Esenboga",
+        "question": "How does Blinds Crafter price its motorized shade options compared to competitors?",
+        "options": [
+          "About double the price but with a lifetime warranty",
+          "The same price as competitors, but with faster installation",
+          "They don't offer motorized options",
+          "Around $100-150 vs. competitors' $200-400"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Colin Shipp",
+        "question": "What does Colin say makes him different from other YouTube-focused agencies?",
+        "options": [
+          "He guarantees a minimum number of views per video",
+          "He's made over $15M from organic YouTube longform himself and focuses on targeted views that convert to clients, not vanity view counts",
+          "He only works with celebrities and influencers",
+          "He offers the lowest price in the market"
         ],
         "correctIndex": 1
       }
     ],
     [
       {
-        "client": "Dustin Meier",
-        "question": "What's 615 Peptides' brand color scheme?",
+        "client": "Mark Hopper",
+        "question": "What material is SnapTrack made from, unlike PVC competitors?",
         "options": [
-          "Bright orange and yellow",
-          "Earth tones like brown and tan",
-          "Pastel pink and mint green",
-          "Black/dark blue with electric blue, white, and silver accents"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Never Inside / Smash Mount",
-        "question": "What's Smash Mount's biggest-selling vehicle fit?",
-        "options": [
-          "The Ford F-150",
-          "The Toyota Camry",
-          "The Freightliner Cascadia, covering about 40% of semi trucks on the road",
-          "The Honda Civic"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Jake",
-        "question": "Who is ScreenHalt's target audience?",
-        "options": [
-          "Corporate IT departments",
-          "Ages 18-40, primarily college students and young professionals",
-          "Seniors managing screen time for health",
-          "Parents monitoring young children's devices"
+          "Stainless steel",
+          "Fully aluminum and powder-coated",
+          "Bamboo composite",
+          "Recycled plastic"
         ],
         "correctIndex": 1
-      },
-      {
-        "client": "Caleb Tsai - STXND",
-        "question": "What comparison does the client use to describe the stand's premium feel?",
-        "options": [
-          "\"The Tesla of office furniture\"",
-          "\"The Rolex of laptop stands\" or \"The MacBook of laptop stands\"",
-          "\"The Swiss Army knife of desk gear\"",
-          "\"The iPhone of accessories\""
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Lillie & Lee / Asher House Wellness",
-        "question": "About what percentage of Lillie & Lee's business is subscription-based?",
-        "options": [
-          "None - they don't offer subscriptions",
-          "About 90%",
-          "About 40%",
-          "About 5%"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Ryan Sarakul",
-        "question": "What's CRM Group's minimum service price?",
-        "options": [
-          "Services begin at $35,000",
-          "There's no minimum, pricing is fully custom",
-          "Services begin at $3,500 minimum",
-          "Services begin at $350"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "David Pasc",
-        "question": "What is SaveMaxAuto, one of the brands PowerFox Media runs campaigns for?",
-        "options": [
-          "A roadside assistance app",
-          "A used car marketplace",
-          "An auto financing company",
-          "A car insurance comparison/lead-gen site built around a mascot named Max"
-        ],
-        "correctIndex": 3
       },
       {
         "client": "Mikael & Evan",
@@ -3453,70 +3442,48 @@
         "correctIndex": 2
       },
       {
-        "client": "Channelle Jumper",
-        "question": "What guarantee does Signals offer?",
+        "client": "Nero Intimate Care",
+        "question": "Who is Nero's primary target market?",
         "options": [
-          "A lifetime guarantee on all purchases",
-          "A 30-day guarantee on the first bag purchased",
-          "A guarantee only for subscription customers",
-          "No guarantee - all sales are final"
+          "Women seeking intimate skincare",
+          "Elderly men with mobility issues",
+          "Largely uncircumcised men ages 18-54, particularly Hispanic and Asian men in the US",
+          "Teenagers with acne"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "William Da Silva",
+        "question": "What personality trait does the Psyhance founder say sets him apart?",
+        "options": [
+          "He only treats children and teens",
+          "He uses humor intentionally as a therapeutic tool",
+          "He never discusses medication at all",
+          "He specializes exclusively in couples therapy"
         ],
         "correctIndex": 1
       },
       {
-        "client": "Colin Shipp",
-        "question": "What's Organic Client Engine's current cost per qualified booked call?",
+        "client": "Nouman Ali",
+        "question": "What's Smells Plus' initial ad budget?",
         "options": [
-          "Around $350",
-          "Around $35",
-          "Around $1,000",
-          "Around $50"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Lumen Scholar",
-        "question": "What's Lumen Scholar's motto?",
-        "options": [
-          "\"Learn. Explore. Do More.\"",
-          "\"School, Reimagined.\"",
-          "\"Your Future Starts Here.\"",
-          "\"Education Without Limits.\""
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Funding Vault",
-        "question": "What's Funding Vault's target return on ad spend (ROAS)?",
-        "options": [
-          "1x to 2x",
-          "6x to 7x",
-          "There's no ROAS target, just volume",
-          "20x to 30x"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Cosmo Grill #6",
-        "question": "What example hook did Split Pay say worked well for them, generating thousands of comments?",
-        "options": [
-          "\"Rent shouldn't feel like a punishment.\"",
-          "\"The smartest renters use Split Pay.\"",
-          "\"Split your bills, not your sanity.\"",
-          "\"Your landlord doesn't care when you get paid. We do.\""
+          "$20",
+          "$20,000",
+          "$2,000",
+          "$200"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Jeremy Zapata",
-        "question": "What's a feature Nexus One offers that's less common among competitors?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "What platform is Lillie & Lee's store built on for subscriptions?",
         "options": [
-          "A dedicated call center for customers",
-          "Drone-based job site inspections",
-          "OCR receipt scanning that automatically reads purchased materials for inventory tracking",
-          "Built-in payroll processing"
+          "Recharge",
+          "Shopify Subscriptions API",
+          "Loop Subscriptions",
+          "Bold Subscriptions"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
         "client": "Eli Esagoff | Amir Atighehchi",
@@ -3530,15 +3497,37 @@
         "correctIndex": 1
       },
       {
-        "client": "Yusuf Esenboga",
-        "question": "How many locations does Blinds Crafter operate?",
+        "client": "David Pasc",
+        "question": "What is SaveMaxAuto, one of the brands PowerFox Media runs campaigns for?",
         "options": [
-          "Over 20 locations nationwide",
-          "4 locations - Easton PA, Dallas TX, Atlanta GA, and Montclair NJ",
-          "A single flagship location in New Jersey",
-          "2 locations, both in Texas"
+          "A roadside assistance app",
+          "A used car marketplace",
+          "An auto financing company",
+          "A car insurance comparison/lead-gen site built around a mascot named Max"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Jake",
+        "question": "Who is ScreenHalt's target audience?",
+        "options": [
+          "Corporate IT departments",
+          "Ages 18-40, primarily college students and young professionals",
+          "Seniors managing screen time for health",
+          "Parents monitoring young children's devices"
         ],
         "correctIndex": 1
+      },
+      {
+        "client": "Ovadia Labaton #2",
+        "question": "What discount does The Perfect Jean offer first-time buyers?",
+        "options": [
+          "15% off first order",
+          "Free lifetime shipping",
+          "Buy one, get one free",
+          "$50 off any purchase"
+        ],
+        "correctIndex": 0
       },
       {
         "client": "George Villasenor #2",
@@ -3552,167 +3541,46 @@
         "correctIndex": 1
       },
       {
-        "client": "Nathan Young",
-        "question": "What cash prize does The Next Contestant advertise when applicable?",
+        "client": "Lumen Scholar",
+        "question": "What's Lumen Scholar's motto?",
         "options": [
-          "$1,000,000",
-          "There's no cash prize, just exposure",
-          "$10,000",
-          "$100,000"
+          "\"Learn. Explore. Do More.\"",
+          "\"Your Future Starts Here.\"",
+          "\"School, Reimagined.\"",
+          "\"Education Without Limits.\""
         ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Mark Hopper",
-        "question": "What material is SnapTrack made from, unlike PVC competitors?",
-        "options": [
-          "Stainless steel",
-          "Fully aluminum and powder-coated",
-          "Bamboo composite",
-          "Recycled plastic"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "American Air Heating & Cooling",
-        "question": "What's American Air's approximate annual revenue?",
-        "options": [
-          "About $45 million",
-          "About $1 million",
-          "About $400,000",
-          "About $4.5 million"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Yousuf Osmani",
-        "question": "What starting price point does Scooter Importer advertise?",
-        "options": [
-          "Scooters starting at $499",
-          "Scooters starting at $1,799",
-          "No fixed starting price mentioned",
-          "Scooters starting at $4,999"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Nero Intimate Care",
-        "question": "Who is Nero's primary target market?",
-        "options": [
-          "Elderly men with mobility issues",
-          "Women seeking intimate skincare",
-          "Teenagers with acne",
-          "Largely uncircumcised men ages 18-54, particularly Hispanic and Asian men in the US"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "RingDebt",
-        "question": "What's RingDebt's target cost per phone call?",
-        "options": [
-          "About $1.50 per call",
-          "About $50 per call",
-          "About $15 per call",
-          "About $150 per call"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Shtefan Gurbanov",
-        "question": "What's JetPipe's promotional price for a heat pump water heater?",
-        "options": [
-          "$15,000",
-          "$5,000 for a standard same-location installation",
-          "$500",
-          "$50,000"
-        ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
         "client": "Titan Forge Peptides",
         "question": "What's Titan Forge's shipping offer?",
         "options": [
-          "Free international shipping on all orders",
-          "No shipping fees ever, regardless of order size",
           "Free US shipping on orders over $150",
-          "Same-day local delivery only"
+          "Same-day local delivery only",
+          "No shipping fees ever, regardless of order size",
+          "Free international shipping on all orders"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
-        "client": "Sara Hasan",
-        "question": "What's a key feature of the Next-Step Stool?",
+        "client": "Jomell Thomas",
+        "question": "What personal story shaped the founding of GirlieVault?",
         "options": [
-          "It requires professional installation",
-          "It doubles as a diaper-changing table",
-          "A patented anti-tip hooking mechanism, functioning as either a 1-step or 2-step stool",
-          "It's made entirely of glass for a modern look"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Marlene Hamad",
-        "question": "Who is Marlene's target market?",
-        "options": [
-          "Retirees downsizing their homes",
-          "First-time renters transitioning to buying",
-          "College students seeking off-campus housing",
-          "Professionals, entrepreneurs, investors, family offices, and UHNWI, ages 25-65"
+          "The founder was a former professional athlete",
+          "The brand started as a college class project",
+          "The founder previously worked in finance",
+          "Founder Jomell Thomas lost his mother, channeled that grief into building the brand, with support from a close friend"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Sydnei Kelly",
-        "question": "Where is Bliss Marketplace located?",
+        "client": "Jeremy Marcus",
+        "question": "What summer promotion does Duda Restoration want to advertise?",
         "options": [
-          "The Portland area",
-          "The Sacramento area",
-          "The Nashville area",
-          "The Denver area"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Loyal Saints",
-        "question": "Who founded Loyal Saints, according to the questionnaire?",
-        "options": [
-          "A veterinarian",
-          "A former competitive dog breeder",
-          "A female founder",
-          "A team of nutritionists"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Dennis Mataia",
-        "question": "How does FixxyApp make money if it's free for customers and vendors?",
-        "options": [
-          "Selling user data to third parties",
-          "A monthly subscription fee for vendors",
-          "Advertising and promotional services offered to businesses",
-          "A 15% commission on every booked job"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Casey Woodard",
-        "question": "How much has Divine paid out to affiliates on Whop?",
-        "options": [
-          "Over $10,000",
-          "Over $100 million",
-          "Divine doesn't use affiliates",
-          "Over $1 million"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Ovadia Labaton #2",
-        "question": "What discount does The Perfect Jean offer first-time buyers?",
-        "options": [
-          "15% off first order",
-          "Free lifetime shipping",
-          "Buy one, get one free",
-          "$50 off any purchase"
+          "25% off mold remediation",
+          "Free roof inspections all summer",
+          "Buy one service, get one free",
+          "A referral bonus for new customers"
         ],
         "correctIndex": 0
       },
@@ -3728,26 +3596,15 @@
         "correctIndex": 0
       },
       {
-        "client": "William Da Silva",
-        "question": "What personality trait does the Psyhance founder say sets him apart?",
+        "client": "Nathan Young",
+        "question": "What cash prize does The Next Contestant advertise when applicable?",
         "options": [
-          "He only treats children and teens",
-          "He uses humor intentionally as a therapeutic tool",
-          "He never discusses medication at all",
-          "He specializes exclusively in couples therapy"
+          "$1,000,000",
+          "There's no cash prize, just exposure",
+          "$10,000",
+          "$100,000"
         ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Jeremy Marcus",
-        "question": "What summer promotion does Duda Restoration want to advertise?",
-        "options": [
-          "25% off mold remediation",
-          "Free roof inspections all summer",
-          "Buy one service, get one free",
-          "A referral bonus for new customers"
-        ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
         "client": "Jerimiah Elliot",
@@ -3761,48 +3618,158 @@
         "correctIndex": 3
       },
       {
-        "client": "Jonathan Whipple",
-        "question": "What trades does Scaling Contractors focus on?",
+        "client": "American Air Heating & Cooling",
+        "question": "What's American Air's approximate annual revenue?",
         "options": [
-          "General handyman and small residential repairs",
-          "Interior painting only",
-          "HVAC and plumbing exclusively",
-          "Hardscaping, concrete, asphalt, decking, and high-end landscaping"
+          "About $45 million",
+          "About $4.5 million",
+          "About $1 million",
+          "About $400,000"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Sara Hasan",
+        "question": "What's a key feature of the Next-Step Stool?",
+        "options": [
+          "It requires professional installation",
+          "It doubles as a diaper-changing table",
+          "A patented anti-tip hooking mechanism, functioning as either a 1-step or 2-step stool",
+          "It's made entirely of glass for a modern look"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Loyal Saints",
+        "question": "Who founded Loyal Saints, according to the questionnaire?",
+        "options": [
+          "A veterinarian",
+          "A former competitive dog breeder",
+          "A female founder",
+          "A team of nutritionists"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Shtefan Gurbanov",
+        "question": "What's JetPipe's promotional price for a heat pump water heater?",
+        "options": [
+          "$15,000",
+          "$5,000 for a standard same-location installation",
+          "$500",
+          "$50,000"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What new service is Dark Knife Customs planning to add soon?",
+        "options": [
+          "Mobile knife sales at farmers markets",
+          "A subscription sharpening box",
+          "Online sharpening tutorials",
+          "Custom laser engraving"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Jomell Thomas",
-        "question": "What personal story shaped the founding of GirlieVault?",
+        "client": "Caleb Tsai - STXND",
+        "question": "What comparison does the client use to describe the stand's premium feel?",
         "options": [
-          "Founder Jomell Thomas lost his mother and channeled that grief into building the brand",
-          "The founder previously worked in finance",
-          "The brand started as a college class project",
-          "The founder was a former professional athlete"
+          "\"The iPhone of accessories\"",
+          "\"The Swiss Army knife of desk gear\"",
+          "\"The Rolex of laptop stands\" or \"The MacBook of laptop stands\"",
+          "\"The Tesla of office furniture\""
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Ryan Sarakul",
+        "question": "What's CRM Group's minimum service price?",
+        "options": [
+          "Services begin at $35,000",
+          "There's no minimum, pricing is fully custom",
+          "Services begin at $3,500 minimum",
+          "Services begin at $350"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Never Inside / Smash Mount",
+        "question": "What's Smash Mount's biggest-selling vehicle fit?",
+        "options": [
+          "The Ford F-150",
+          "The Honda Civic",
+          "The Toyota Camry",
+          "The Freightliner Cascadia, covering about 40% of semi trucks on the road"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Sydnei Kelly",
+        "question": "Where is Bliss Marketplace located?",
+        "options": [
+          "The Portland area",
+          "The Sacramento area",
+          "The Nashville area",
+          "The Denver area"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Marlene Hamad",
+        "question": "Who is Marlene's target market?",
+        "options": [
+          "Retirees downsizing their homes",
+          "First-time renters transitioning to buying",
+          "College students seeking off-campus housing",
+          "Professionals, entrepreneurs, investors, family offices, and UHNWI, ages 25-65"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Colin Shipp",
+        "question": "What's Organic Client Engine's current cost per qualified booked call?",
+        "options": [
+          "Around $350",
+          "Around $35",
+          "Around $1,000",
+          "Around $50"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Steven Gooding",
-        "question": "Who buys most of GoodRings' products?",
+        "client": "Dennis Mataia",
+        "question": "How does FixxyApp make money if it's free for customers and vendors?",
         "options": [
-          "About 90% of orders are from women buying rings for their fianc\u00e9s",
-          "Split evenly between men and women",
-          "Mostly corporate gifting accounts",
-          "Mostly men buying for themselves"
+          "Selling user data to third parties",
+          "A monthly subscription fee for vendors",
+          "Advertising and promotional services offered to businesses",
+          "A 15% commission on every booked job"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
-        "client": "Nouman Ali",
-        "question": "What's Smells Plus' initial ad budget?",
+        "client": "Cosmo Grill #6",
+        "question": "What example hook did Split Pay say worked well for them, generating thousands of comments?",
         "options": [
-          "$200",
-          "$20",
-          "$2,000",
-          "$20,000"
+          "\"Rent shouldn't feel like a punishment.\"",
+          "\"The smartest renters use Split Pay.\"",
+          "\"Split your bills, not your sanity.\"",
+          "\"Your landlord doesn't care when you get paid. We do.\""
         ],
-        "correctIndex": 0
+        "correctIndex": 3
+      },
+      {
+        "client": "Channelle Jumper",
+        "question": "What guarantee does Signals offer?",
+        "options": [
+          "A lifetime guarantee on all purchases",
+          "A 30-day guarantee on the first bag purchased",
+          "A guarantee only for subscription customers",
+          "No guarantee - all sales are final"
+        ],
+        "correctIndex": 1
       },
       {
         "client": "Zack Bedingfield",
@@ -3816,17 +3783,6 @@
         "correctIndex": 3
       },
       {
-        "client": "House of Cars MN",
-        "question": "What price range does House of Cars specialize in?",
-        "options": [
-          "Only vehicles under $5,000",
-          "Luxury vehicles over $75,000",
-          "Reliable vehicles under $20,000",
-          "Exclusively electric vehicles"
-        ],
-        "correctIndex": 2
-      },
-      {
         "client": "David Sabo",
         "question": "What's Precision Exterior Cleaning's initial ad budget?",
         "options": [
@@ -3836,72 +3792,193 @@
           "Around $650"
         ],
         "correctIndex": 2
-      }
-    ],
-    [
+      },
       {
-        "client": "Sara Hasan",
-        "question": "Who is Next-Step Stool's target customer?",
+        "client": "Yusuf Esenboga",
+        "question": "How many locations does Blinds Crafter operate?",
         "options": [
-          "Parents (primarily mothers) ages 25-40 in the US with $80k+ household income",
-          "Teenagers setting up their own rooms",
-          "Grandparents buying gifts",
-          "Daycare centers and preschools"
+          "Over 20 locations nationwide",
+          "4 locations - Easton PA, Dallas TX, Atlanta GA, and Montclair NJ",
+          "A single flagship location in New Jersey",
+          "2 locations, both in Texas"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Steven Gooding",
+        "question": "Who buys most of GoodRings' products?",
+        "options": [
+          "About 90% of orders are from women buying rings for their fianc\u00e9s",
+          "Split evenly between men and women",
+          "Mostly corporate gifting accounts",
+          "Mostly men buying for themselves"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Colin Shipp",
-        "question": "Who is Organic Client Engine's target customer?",
+        "client": "Dustin Meier",
+        "question": "What's 615 Peptides' brand color scheme?",
         "options": [
-          "E-commerce brands selling physical products",
-          "College students starting side hustles",
-          "US-based consultants and coaches doing $50,000+ per month in revenue",
-          "Local small businesses under $10k/month"
+          "Earth tones like brown and tan",
+          "Pastel pink and mint green",
+          "Black/dark blue with electric blue, white, and silver accents",
+          "Bright orange and yellow"
         ],
         "correctIndex": 2
       },
       {
-        "client": "Never Inside / Smash Mount",
-        "question": "What guarantee does Smash Mount offer?",
+        "client": "Jonathan Whipple",
+        "question": "What trades does Scaling Contractors focus on?",
         "options": [
-          "A lifetime warranty",
-          "No guarantee - all sales are final",
-          "A 30-day money-back guarantee only",
-          "A 90-day limited warranty"
+          "General handyman and small residential repairs",
+          "Interior painting only",
+          "HVAC and plumbing exclusively",
+          "Hardscaping, concrete, asphalt, decking, and high-end landscaping"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "House of Cars MN",
+        "question": "What price range does House of Cars specialize in?",
+        "options": [
+          "Only vehicles under $5,000",
+          "Exclusively electric vehicles",
+          "Luxury vehicles over $75,000",
+          "Reliable vehicles under $20,000"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Yousuf Osmani",
+        "question": "What starting price point does Scooter Importer advertise?",
+        "options": [
+          "Scooters starting at $499",
+          "Scooters starting at $1,799",
+          "No fixed starting price mentioned",
+          "Scooters starting at $4,999"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "About what percentage of Lillie & Lee's business is subscription-based?",
+        "options": [
+          "About 40%",
+          "None - they don't offer subscriptions",
+          "About 90%",
+          "About 5%"
         ],
         "correctIndex": 0
+      },
+      {
+        "client": "RingDebt",
+        "question": "What's RingDebt's target cost per phone call?",
+        "options": [
+          "About $1.50 per call",
+          "About $50 per call",
+          "About $15 per call",
+          "About $150 per call"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Jeremy Zapata",
+        "question": "What's a feature Nexus One offers that's less common among competitors?",
+        "options": [
+          "Drone-based job site inspections",
+          "OCR receipt scanning that automatically reads purchased materials for inventory tracking",
+          "Built-in payroll processing",
+          "A dedicated call center for customers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Casey Woodard",
+        "question": "How much has Divine paid out to affiliates on Whop?",
+        "options": [
+          "Over $10,000",
+          "Over $100 million",
+          "Divine doesn't use affiliates",
+          "Over $1 million"
+        ],
+        "correctIndex": 3
+      }
+    ],
+    [
+      {
+        "client": "Steven Gooding",
+        "question": "What's GoodRings' target cost per conversion?",
+        "options": [
+          "$500-900 per conversion",
+          "$50-90 per conversion",
+          "There's no target, just maximize volume",
+          "$5-10 per conversion"
+        ],
+        "correctIndex": 1
       },
       {
         "client": "Lillie & Lee / Asher House Wellness",
         "question": "What's Lillie & Lee's average subscriber lifetime value?",
         "options": [
           "Approximately $50",
-          "Approximately $250",
           "Approximately $2,500",
+          "Approximately $250",
           "Approximately $25"
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
-        "client": "American Air Heating & Cooling",
-        "question": "What's American Air's approximate market share in its area?",
+        "client": "Sydnei Kelly",
+        "question": "What's Bliss Marketplace's monthly ad budget?",
         "options": [
-          "About 18-20%",
-          "About 2%",
-          "About 60%",
-          "About 90%"
+          "$1,500",
+          "$150",
+          "$500",
+          "$15,000"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Channelle Jumper",
-        "question": "What's the approximate gender split of Signals' customer base?",
+        "client": "Jerimiah Elliot",
+        "question": "Who is Geronimo Tackle's target customer?",
         "options": [
-          "About 80% female, 20% male",
-          "Exclusively female customers",
-          "About 90% male, 10% female",
-          "About 50/50 male and female"
+          "West coast surfers and boaters",
+          "Boat owners, male, 20-65, $200k+ income, US east coast",
+          "Casual weekend anglers with modest incomes",
+          "Commercial fishing operations"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Lumen Scholar",
+        "question": "What does Lumen Scholar say is virtually non-existent at their school?",
+        "options": [
+          "Homework",
+          "Standardized testing",
+          "Extracurricular activities",
+          "Bullying"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Shtefan Gurbanov",
+        "question": "What warranty length is being discussed for JetPipe's whole-home repipe campaign?",
+        "options": [
+          "25 years",
+          "1 year",
+          "Lifetime, with no expiration",
+          "5 years"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "David Sabo",
+        "question": "What recurring plan discount does Precision Exterior Cleaning offer?",
+        "options": [
+          "10-15% off for signing up for quarterly service",
+          "Free service every fourth visit",
+          "No recurring discounts offered",
+          "50% off for signing up for a full year"
         ],
         "correctIndex": 0
       },
@@ -3917,123 +3994,68 @@
         "correctIndex": 2
       },
       {
-        "client": "House of Cars MN",
-        "question": "What was the founder's early sales achievement?",
+        "client": "Sara Hasan",
+        "question": "Who is Next-Step Stool's target customer?",
         "options": [
-          "He was salesman of the month his very first month, beating veteran salespeople",
-          "He opened three locations in his first year",
-          "He was previously a finance manager at a bank",
-          "He sold his first car at age 16"
+          "Parents (primarily mothers) ages 25-40 in the US with $80k+ household income",
+          "Teenagers setting up their own rooms",
+          "Grandparents buying gifts",
+          "Daycare centers and preschools"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Jonathan Whipple",
-        "question": "What's Scaling Contractors' daily ad budget?",
+        "client": "Marlene Hamad",
+        "question": "What offer does Marlene want included in her ads?",
         "options": [
-          "$400-1,000/day",
-          "$40-100/day",
-          "$4,000-10,000/day",
-          "$4-10/day"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Mikael & Evan",
-        "question": "What's the top tier of GetListings.com's funnel, and what does it cost?",
-        "options": [
-          "A $99 one-time ebook",
-          "A $500 monthly software subscription",
-          "Listing Accelerator, a $12,000 six-month done-for-you program",
-          "A free lifetime membership"
+          "A 6-month rent-back guarantee",
+          "Free moving services with every sale",
+          "Complimentary buyer and seller consultations",
+          "A cash-back rebate on closing costs"
         ],
         "correctIndex": 2
       },
       {
-        "client": "Titan Forge Peptides",
-        "question": "What's the brand's core three-word message?",
+        "client": "Caroline Nyakundi",
+        "question": "What's Alpha Massage's stated main goal for its ad campaign?",
         "options": [
-          "\"Purity First, Always.\"",
-          "\"Quality. Research. Reliability.\"",
-          "\"Pure. Potent. Proven.\"",
-          "\"Science You Can Trust.\""
+          "Direct bookings",
+          "Building an email list",
+          "Selling gift cards online",
+          "Growing social media followers"
         ],
-        "correctIndex": 1
+        "correctIndex": 0
       },
       {
-        "client": "Steven Gooding",
-        "question": "What's GoodRings' target cost per conversion?",
+        "client": "William Da Silva",
+        "question": "Where is Psyhance primarily based?",
         "options": [
-          "$500-900 per conversion",
-          "$50-90 per conversion",
-          "There's no target, just maximize volume",
-          "$5-10 per conversion"
+          "Miami, FL",
+          "Austin, TX",
+          "White Plains, NY / Westchester County",
+          "Seattle, WA"
         ],
-        "correctIndex": 1
+        "correctIndex": 2
       },
       {
-        "client": "Cosmo Grill #6",
-        "question": "Who is Split Pay's target customer, according to the questionnaire?",
+        "client": "Never Inside / Smash Mount",
+        "question": "What guarantee does Smash Mount offer?",
         "options": [
-          "First-time homebuyers",
-          "College students living in dorms",
-          "Landlords managing rental properties",
-          "Renters in large metro areas, many minorities/gig workers, mostly females in their 30s"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Loyal Saints",
-        "question": "What's a stated pain point Loyal Saints' customers have?",
-        "options": [
-          "Packaging that's hard to open",
-          "Understanding the price point and educational benefit of freeze-dried food vs. normal kibble",
-          "Difficulty finding the product in stores",
-          "Dogs refusing to eat the food"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Casey Woodard",
-        "question": "What's Divine's stated churn rate concern about competitor eMoney?",
-        "options": [
-          "eMoney has zero churn and perfect retention",
-          "eMoney's low-ticket churn is 47%, using it mainly as a feeder into high-ticket sales",
-          "eMoney's churn rate isn't tracked publicly",
-          "eMoney doesn't offer a low-ticket tier at all"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Nero Intimate Care",
-        "question": "What's Nero's claimed advantage over washes and creams?",
-        "options": [
-          "It's the cheapest option on the market",
-          "It's a gel ointment that stays on all day and doesn't dry out skin like washes do",
-          "It comes with a money-back guarantee",
-          "It's the only FDA-approved option in its category"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Jake",
-        "question": "What feature is ScreenHalt building that competitors lack?",
-        "options": [
-          "Cloud photo backup",
-          "A built-in web browser",
-          "Group video calling",
-          "The ability to ignore specific apps for screen time tracking, not just whole categories"
+          "A 90-day limited warranty",
+          "No guarantee - all sales are final",
+          "A 30-day money-back guarantee only",
+          "A lifetime warranty"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Mark Hopper",
-        "question": "What's SnapTrack's current and target daily ad budget?",
+        "client": "Jeremy Zapata",
+        "question": "Who are Nexus One's named competitors?",
         "options": [
-          "Currently $5,000/day, scaling down to $500/day",
-          "Currently $300-500/day, looking to scale to $1,000-2,000/day",
-          "Currently $30-50/day, scaling to $100-200/day",
-          "A flat $10,000/month with no daily variation"
+          "Square and Stripe",
+          "Housecall Pro, Jobber, and Service Titan",
+          "QuickBooks and Xero",
+          "Salesforce and HubSpot"
         ],
         "correctIndex": 1
       },
@@ -4060,46 +4082,24 @@
         "correctIndex": 0
       },
       {
-        "client": "Ovadia Labaton #2",
-        "question": "What common objection does The Perfect Jean face?",
+        "client": "Nouman Ali",
+        "question": "Who are Smells Plus' named competitors?",
         "options": [
-          "That the sizing runs too small",
-          "That the fabric doesn't last long",
-          "That the price is too low for the quality",
-          "That stretchy jeans \"aren't manly\" or \"real jeans\""
+          "Amazon and Walmart",
+          "Jomashop, FragranceNet, and Intense Oud",
+          "Sephora and Ulta",
+          "Nordstrom and Macy's"
         ],
-        "correctIndex": 3
+        "correctIndex": 1
       },
       {
-        "client": "Funding Vault",
-        "question": "What backend fee does Funding Vault criticize other funding companies for charging?",
+        "client": "Mikael & Evan",
+        "question": "What's the top tier of GetListings.com's funnel, and what does it cost?",
         "options": [
-          "A flat $50 application fee",
-          "A 50% equity stake in the business",
-          "8-12% of total funding, versus Funding Vault's $2,000 course model",
-          "Nothing - other companies are free"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Shtefan Gurbanov",
-        "question": "What warranty length is being discussed for JetPipe's whole-home repipe campaign?",
-        "options": [
-          "25 years",
-          "1 year",
-          "Lifetime, with no expiration",
-          "5 years"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "RingDebt",
-        "question": "How does RingDebt describe itself, as opposed to a debt settlement or consolidation company?",
-        "options": [
-          "A traditional bank offering personal loans",
-          "A bankruptcy law firm",
-          "A consumer protection company that works with attorneys on debt validation",
-          "A credit repair agency"
+          "A $99 one-time ebook",
+          "A $500 monthly software subscription",
+          "Listing Accelerator, a $12,000 six-month done-for-you program",
+          "A free lifetime membership"
         ],
         "correctIndex": 2
       },
@@ -4115,46 +4115,112 @@
         "correctIndex": 3
       },
       {
-        "client": "George Villasenor #2",
-        "question": "How does Blue's Poop Scoop prove a visit happened?",
-        "options": [
-          "They call the customer after every visit",
-          "They text a photo of the customer's closed gate after every visit",
-          "They leave a physical door hanger",
-          "They don't provide proof, it's on trust"
-        ],
-        "correctIndex": 1
-      },
-      {
         "client": "Jomell Thomas",
         "question": "What's GirlieVault's target age range?",
         "options": [
-          "18-35, with a sweet spot of 21-29",
-          "12-17",
           "45-65",
-          "There's no specific target age"
+          "12-17",
+          "There's no specific target age",
+          "18-35, with a sweet spot of 21-29"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Titan Forge Peptides",
+        "question": "What's the brand's core three-word message?",
+        "options": [
+          "\"Quality. Research. Reliability.\"",
+          "\"Science You Can Trust.\"",
+          "\"Purity First, Always.\"",
+          "\"Pure. Potent. Proven.\""
         ],
         "correctIndex": 0
       },
       {
-        "client": "Jerimiah Elliot",
-        "question": "Who is Geronimo Tackle's target customer?",
+        "client": "Cosmo Grill #6",
+        "question": "Who is Split Pay's target customer, according to the questionnaire?",
         "options": [
-          "West coast surfers and boaters",
-          "Boat owners, male, 20-65, $200k+ income, US east coast",
-          "Casual weekend anglers with modest incomes",
-          "Commercial fishing operations"
+          "First-time homebuyers",
+          "College students living in dorms",
+          "Landlords managing rental properties",
+          "Renters in large metro areas, many minorities/gig workers, mostly females in their 30s"
         ],
-        "correctIndex": 1
+        "correctIndex": 3
       },
       {
-        "client": "William Da Silva",
-        "question": "Where is Psyhance primarily based?",
+        "client": "Colin Shipp",
+        "question": "Who is Organic Client Engine's target customer?",
         "options": [
-          "Miami, FL",
-          "Austin, TX",
-          "White Plains, NY / Westchester County",
-          "Seattle, WA"
+          "E-commerce brands selling physical products",
+          "College students starting side hustles",
+          "US-based consultants and coaches doing $50,000+ per month in revenue",
+          "Local small businesses under $10k/month"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "RingDebt",
+        "question": "How does RingDebt describe itself, as opposed to a debt settlement or consolidation company?",
+        "options": [
+          "A traditional bank offering personal loans",
+          "A bankruptcy law firm",
+          "A consumer protection company that works with attorneys on debt validation",
+          "A credit repair agency"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Nero Intimate Care",
+        "question": "What's Nero's claimed advantage over washes and creams?",
+        "options": [
+          "It's the only FDA-approved option in its category",
+          "It's the cheapest option on the market",
+          "It comes with a money-back guarantee",
+          "It's a gel ointment that stays on all day and doesn't dry out skin like washes do"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Ryan Sarakul",
+        "question": "What's the most a CRM Group client has ever spent?",
+        "options": [
+          "$200,000",
+          "$2 million",
+          "$20,000",
+          "$2,000"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Ovadia Labaton #2",
+        "question": "What common objection does The Perfect Jean face?",
+        "options": [
+          "That the sizing runs too small",
+          "That the fabric doesn't last long",
+          "That the price is too low for the quality",
+          "That stretchy jeans \"aren't manly\" or \"real jeans\""
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "Where is Dark Knife Customs located?",
+        "options": [
+          "Palm Beach Gardens, FL",
+          "Walla Walla, WA",
+          "Milford, PA",
+          "Nashville, TN"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Dustin Meier",
+        "question": "What shipping option does 615 Peptides offer for faster delivery?",
+        "options": [
+          "International express only",
+          "In-store pickup only",
+          "Priority Mail, $10-15, estimated 1-3 business days",
+          "Same-day courier delivery"
         ],
         "correctIndex": 2
       },
@@ -4170,92 +4236,37 @@
         "correctIndex": 0
       },
       {
-        "client": "Jeremy Zapata",
-        "question": "Who are Nexus One's named competitors?",
+        "client": "Jake",
+        "question": "What feature is ScreenHalt building that competitors lack?",
         "options": [
-          "Housecall Pro, Jobber, and Service Titan",
-          "QuickBooks and Xero",
-          "Square and Stripe",
-          "Salesforce and HubSpot"
+          "Cloud photo backup",
+          "A built-in web browser",
+          "Group video calling",
+          "The ability to ignore specific apps for screen time tracking, not just whole categories"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
-        "client": "Sydnei Kelly",
-        "question": "What's Bliss Marketplace's monthly ad budget?",
+        "client": "Casey Woodard",
+        "question": "What's Divine's stated churn rate concern about competitor eMoney?",
         "options": [
-          "$1,500",
-          "$150",
-          "$500",
-          "$15,000"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Dustin Meier",
-        "question": "What shipping option does 615 Peptides offer for faster delivery?",
-        "options": [
-          "Priority Mail, $10-15, estimated 1-3 business days",
-          "International express only",
-          "In-store pickup only",
-          "Same-day courier delivery"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Caleb Tsai - STXND",
-        "question": "What brand values does STXND explicitly push back against?",
-        "options": [
-          "Remote work culture",
-          "Sustainability messaging",
-          "Hustle culture and grind culture (\"sleep less, grind harder\")",
-          "Minimalism and simplicity"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "David Sabo",
-        "question": "What recurring plan discount does Precision Exterior Cleaning offer?",
-        "options": [
-          "10-15% off for signing up for quarterly service",
-          "Free service every fourth visit",
-          "No recurring discounts offered",
-          "50% off for signing up for a full year"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Nouman Ali",
-        "question": "Who are Smells Plus' named competitors?",
-        "options": [
-          "Sephora and Ulta",
-          "Jomashop, FragranceNet, and Intense Oud",
-          "Nordstrom and Macy's",
-          "Amazon and Walmart"
+          "eMoney has zero churn and perfect retention",
+          "eMoney's low-ticket churn is 47%, using it mainly as a feeder into high-ticket sales",
+          "eMoney's churn rate isn't tracked publicly",
+          "eMoney doesn't offer a low-ticket tier at all"
         ],
         "correctIndex": 1
       },
       {
-        "client": "Ryan Sarakul",
-        "question": "What's the most a CRM Group client has ever spent?",
+        "client": "Loyal Saints",
+        "question": "What's a stated pain point Loyal Saints' customers have?",
         "options": [
-          "$200,000",
-          "$2 million",
-          "$20,000",
-          "$2,000"
+          "Packaging that's hard to open",
+          "Understanding the price point and educational benefit of freeze-dried food vs. normal kibble",
+          "Difficulty finding the product in stores",
+          "Dogs refusing to eat the food"
         ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Eli Esagoff | Amir Atighehchi",
-        "question": "What's Pathway's approximate monthly advertising budget?",
-        "options": [
-          "About $15,000/month",
-          "About $500,000/month",
-          "About $5,000/month",
-          "About $50,000/month"
-        ],
-        "correctIndex": 3
+        "correctIndex": 1
       },
       {
         "client": "Yusuf Esenboga",
@@ -4269,15 +4280,70 @@
         "correctIndex": 3
       },
       {
-        "client": "Marlene Hamad",
-        "question": "What offer does Marlene want included in her ads?",
+        "client": "Jonathan Whipple",
+        "question": "What's Scaling Contractors' daily ad budget?",
         "options": [
-          "A 6-month rent-back guarantee",
-          "Free moving services with every sale",
-          "Complimentary buyer and seller consultations",
-          "A cash-back rebate on closing costs"
+          "$400-1,000/day",
+          "$40-100/day",
+          "$4,000-10,000/day",
+          "$4-10/day"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Caleb Tsai - STXND",
+        "question": "What brand values does STXND explicitly push back against?",
+        "options": [
+          "Minimalism and simplicity",
+          "Remote work culture",
+          "Hustle culture and grind culture (\"sleep less, grind harder\")",
+          "Sustainability messaging"
         ],
         "correctIndex": 2
+      },
+      {
+        "client": "American Air Heating & Cooling",
+        "question": "What's American Air's approximate market share in its area?",
+        "options": [
+          "About 18-20%",
+          "About 2%",
+          "About 60%",
+          "About 90%"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Mark Hopper",
+        "question": "What's SnapTrack's current and target daily ad budget?",
+        "options": [
+          "Currently $5,000/day, scaling down to $500/day",
+          "Currently $300-500/day, looking to scale to $1,000-2,000/day",
+          "Currently $30-50/day, scaling to $100-200/day",
+          "A flat $10,000/month with no daily variation"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Channelle Jumper",
+        "question": "What's the approximate gender split of Signals' customer base?",
+        "options": [
+          "About 80% female, 20% male",
+          "Exclusively female customers",
+          "About 90% male, 10% female",
+          "About 50/50 male and female"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "House of Cars MN",
+        "question": "What was the founder's early sales achievement?",
+        "options": [
+          "He sold his first car at age 16",
+          "He was previously a finance manager at a bank",
+          "He opened three locations in his first year",
+          "He was salesman of the month his very first month, beating veteran salespeople"
+        ],
+        "correctIndex": 3
       },
       {
         "client": "Zack Bedingfield",
@@ -4291,95 +4357,29 @@
         "correctIndex": 3
       },
       {
-        "client": "Lumen Scholar",
-        "question": "What does Lumen Scholar say is virtually non-existent at their school?",
+        "client": "Eli Esagoff | Amir Atighehchi",
+        "question": "What's Pathway's approximate monthly advertising budget?",
         "options": [
-          "Standardized testing",
-          "Homework",
-          "Bullying",
-          "Extracurricular activities"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Caroline Nyakundi",
-        "question": "What's Alpha Massage's stated main goal for its ad campaign?",
-        "options": [
-          "Direct bookings",
-          "Building an email list",
-          "Selling gift cards online",
-          "Growing social media followers"
-        ],
-        "correctIndex": 0
-      }
-    ],
-    [
-      {
-        "client": "Yousuf Osmani",
-        "question": "What language need did Scooter Importer specifically flag for their ads?",
-        "options": [
-          "They wanted ads exclusively in Mandarin",
-          "They said they definitely need Spanish ads",
-          "They wanted no spoken dialogue at all",
-          "They wanted ads only in formal business English"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Nathan Young",
-        "question": "What's a competitor show The Next Contestant references, and what do they dislike about it?",
-        "options": [
-          "American Idol - they dislike the judging panel",
-          "Beast Games - the scale is so massive contestants can feel secondary to the spectacle",
-          "Survivor - they dislike the physical challenges",
-          "The Bachelor - they dislike the elimination format"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Dennis Mataia",
-        "question": "What video format split did Dennis request?",
-        "options": [
-          "5 vertical, 5 horizontal",
-          "10 vertical, 0 horizontal",
-          "7 vertical, 3 horizontal",
-          "0 vertical, 10 horizontal"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Dustin Meier",
-        "question": "What disclaimer does 615 Peptides emphasize?",
-        "options": [
-          "Products are only sold to licensed pharmacies",
-          "Products require a doctor's prescription",
-          "Products are for research use only, not for human consumption",
-          "Products are FDA-approved supplements"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Caleb Tsai - STXND",
-        "question": "What creative style did STXND call out as a massive opportunity?",
-        "options": [
-          "Animated explainer videos",
-          "Coffee shop content, since everyone can relate to seeing people slouched over laptops",
-          "Celebrity endorsement videos",
-          "High-budget cinematic commercials"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Nero Intimate Care",
-        "question": "What discount offer does Nero want in its ads?",
-        "options": [
-          "Free shipping on all orders",
-          "A subscribe-and-save discount",
-          "Buy one get one free",
-          "10% off first-time orders"
+          "About $15,000/month",
+          "About $500,000/month",
+          "About $5,000/month",
+          "About $50,000/month"
         ],
         "correctIndex": 3
       },
+      {
+        "client": "George Villasenor #2",
+        "question": "How does Blue's Poop Scoop prove a visit happened?",
+        "options": [
+          "They call the customer after every visit",
+          "They text a photo of the customer's closed gate after every visit",
+          "They leave a physical door hanger",
+          "They don't provide proof, it's on trust"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    [
       {
         "client": "George Villasenor #2",
         "question": "Where does Blue's Poop Scoop operate?",
@@ -4392,167 +4392,35 @@
         "correctIndex": 3
       },
       {
-        "client": "Eli Esagoff | Amir Atighehchi",
-        "question": "Besides new accident victims, who else does Pathway target?",
+        "client": "Mikael & Evan",
+        "question": "What does GetListings.com say makes them different from competitors who also mention AI?",
         "options": [
-          "Insurance company employees",
-          "People already represented by another attorney who are unhappy with their communication or progress",
-          "Other law firms looking to partner",
-          "People who caused an accident, not victims"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Loyal Saints",
-        "question": "Who is Loyal Saints' target customer?",
-        "options": [
-          "College students with first pets",
-          "Women 25-65, higher education, big cities, animal lovers who treat pets as family",
-          "Rural farm owners with working dogs",
-          "Breeders and kennel operators"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "House of Cars MN",
-        "question": "What's House of Cars' daily ad budget?",
-        "options": [
-          "About $50 a day",
-          "About $150 a day",
-          "About $1,500 a day",
-          "About $15 a day"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "American Air Heating & Cooling",
-        "question": "What's the most common reason American Air loses a job?",
-        "options": [
-          "Slow response times",
-          "Limited service area",
-          "Pricing - they sit in the middle to upper end of the market",
-          "Poor online reviews"
-        ],
-        "correctIndex": 2
-      },
-      {
-        "client": "Jerimiah Elliot",
-        "question": "What origin story does the Geronimo Tackle founder share?",
-        "options": [
-          "He inherited the business from his father",
-          "He started by reselling other brands' gear",
-          "He was sponsored by a major fishing brand first",
-          "He couldn't find affordable carbon fiber outriggers, so he ordered tubing and started prototyping his own"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Shtefan Gurbanov",
-        "question": "What service area does JetPipe Plumbing cover?",
-        "options": [
-          "The greater Los Angeles area",
-          "The San Francisco Bay Area (Santa Clara, Sunnyvale, San Jose, Palo Alto, and surrounding cities)",
-          "The greater Sacramento area",
-          "The Pacific Northwest (Seattle/Portland)"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Jonathan Whipple",
-        "question": "What kind of prospect does Scaling Contractors explicitly NOT want?",
-        "options": [
-          "Contractors using CRM/tracking systems",
-          "Solopreneurs or 1-2 man operations with no CRM/tracking awareness",
-          "Contractors who reinvest profit into growth",
-          "Contractors with a professional phone process"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Cosmo Grill #6",
-        "question": "What timezone is listed for the Split Pay contact?",
-        "options": [
-          "Asia/Dubai",
-          "Europe/Lisbon",
-          "America/Los_Angeles",
-          "America/New_York"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Sara Hasan",
-        "question": "What's the campaign goal for Next-Step Stool?",
-        "options": [
-          "Direct purchases for Black Friday/Cyber Monday",
-          "Getting product reviews on Amazon",
-          "Building an email newsletter list",
-          "Driving foot traffic to a physical store"
+          "They use AI to actually generate leads and make money, not just for admin tasks",
+          "They exclusively serve commercial real estate",
+          "They only work with luxury real estate agents",
+          "They don't use AI at all, only human coaches"
         ],
         "correctIndex": 0
       },
       {
-        "client": "Zack Bedingfield",
-        "question": "What's KonstructIQ's approximate daily ad budget?",
+        "client": "Jomell Thomas",
+        "question": "What's GirlieVault's first-order discount code?",
         "options": [
-          "About $80,000",
-          "About $80",
-          "About $800",
-          "About $8,000"
+          "VAULT15",
+          "GIRLPOWER",
+          "WELCOME20",
+          "GIVEBACK10"
         ],
         "correctIndex": 3
       },
       {
-        "client": "Yusuf Esenboga",
-        "question": "What actor preference did Blinds Crafter request for their ads?",
+        "client": "Colin Shipp",
+        "question": "What does Colin say he's NOT confident about in his business?",
         "options": [
-          "A married couple, both on camera",
-          "Preferably a Caucasian woman",
-          "No preference stated at all",
-          "Specifically an older male actor"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Lumen Scholar",
-        "question": "What's Lumen Scholar's monthly ad budget?",
-        "options": [
-          "No set budget",
-          "Up to $5,000/month",
-          "Up to $500/month",
-          "Up to $50,000/month"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Ovadia Labaton #2",
-        "question": "What creative approach does The Perfect Jean specifically want avoided?",
-        "options": [
-          "Any female actors in the ads",
-          "Generic language like \"perfect for work, drinks, and errands\" that doesn't specifically speak to their brand",
-          "Any close-up product shots",
-          "Any humor in the scripts"
-        ],
-        "correctIndex": 1
-      },
-      {
-        "client": "Titan Forge Peptides",
-        "question": "What emotions does Titan Forge want its brand to create?",
-        "options": [
-          "Trust, confidence, reliability, and professionalism",
-          "Luxury and exclusivity",
-          "Playfulness and humor",
-          "Excitement, urgency, and FOMO"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Nouman Ali",
-        "question": "What does Nouman say makes Smells Plus different from competitors?",
-        "options": [
-          "The largest physical retail footprint",
-          "Exclusive celebrity-designed scents",
-          "Good price and better customer service",
-          "A patented fragrance formula"
+          "His ad creative quality",
+          "His YouTube algorithm knowledge",
+          "The rest of his business - he's still plugging fulfillment holes and hiring an account manager",
+          "His pricing strategy"
         ],
         "correctIndex": 2
       },
@@ -4568,13 +4436,90 @@
         "correctIndex": 1
       },
       {
-        "client": "Jeremy Zapata",
-        "question": "What was the total collected payment for Jeremy Zapata's plan?",
+        "client": "Dennis Mataia",
+        "question": "What video format split did Dennis request?",
         "options": [
-          "$5,000",
-          "$1,000",
-          "$50,000",
-          "$500"
+          "5 vertical, 5 horizontal",
+          "10 vertical, 0 horizontal",
+          "7 vertical, 3 horizontal",
+          "0 vertical, 10 horizontal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Dark Knife Customs",
+        "question": "What past AdVance project did the Dark Knife Customs client specifically reference liking?",
+        "options": [
+          "A logo redesign for a different sharpening company",
+          "A video ad campaign from a prior client",
+          "A business card previously made for Michael at Keystone Chrono Works",
+          "A website built for a competitor"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Yusuf Esenboga",
+        "question": "What actor preference did Blinds Crafter request for their ads?",
+        "options": [
+          "A married couple, both on camera",
+          "Preferably a Caucasian woman",
+          "No preference stated at all",
+          "Specifically an older male actor"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "William Da Silva",
+        "question": "Which age group does Psyhance describe as one of its strongest, most responsive demographics?",
+        "options": [
+          "Adults over 70",
+          "Children under 12",
+          "Teenage girls only",
+          "Young men ages 16-30"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Jerimiah Elliot",
+        "question": "What origin story does the Geronimo Tackle founder share?",
+        "options": [
+          "He inherited the business from his father",
+          "He started by reselling other brands' gear",
+          "He was sponsored by a major fishing brand first",
+          "He couldn't find affordable carbon fiber outriggers, so he ordered tubing and started prototyping his own"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "David Pasc",
+        "question": "How does David Pasc's project typically work, since \"no questionnaire\" is needed?",
+        "options": [
+          "AdVance writes 100% original scripts with no client input",
+          "The client only reviews finished videos, no input beforehand",
+          "AdVance sources all footage from stock video libraries",
+          "The client provides their own scripts and video examples per concept, and AdVance films and edits"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "client": "Caroline Nyakundi",
+        "question": "What enhancements does Alpha Massage offer as part of its luxury spa experience?",
+        "options": [
+          "Only basic Swedish massage, no add-ons",
+          "A sauna and cold plunge only",
+          "Steam towels, hot stones, peppermint foot & scalp treatment, and red light therapy",
+          "Facials and manicures"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "David Sabo",
+        "question": "Who is Precision Exterior Cleaning's target customer?",
+        "options": [
+          "Homeowners and small-to-midsize commercial property owners, ages 30-65",
+          "New construction builders",
+          "Renters looking for move-out cleaning",
+          "Only large commercial property management firms"
         ],
         "correctIndex": 0
       },
@@ -4590,24 +4535,90 @@
         "correctIndex": 1
       },
       {
-        "client": "Caroline Nyakundi",
-        "question": "What enhancements does Alpha Massage offer as part of its luxury spa experience?",
+        "client": "Channelle Jumper",
+        "question": "What core idea does Signals use to explain why other brands fail?",
         "options": [
-          "Only basic Swedish massage, no add-ons",
-          "A sauna and cold plunge only",
-          "Steam towels, hot stones, peppermint foot & scalp treatment, and red light therapy",
-          "Facials and manicures"
+          "Other brands use artificial sweeteners",
+          "Other brands don't offer subscriptions",
+          "Other brands are priced too high",
+          "Other brands optimize for just ONE nutritional input, while Signals addresses every input the body's cells seek"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
       },
       {
-        "client": "Casey Woodard",
-        "question": "Who is Divine's target customer?",
+        "client": "Eli Esagoff | Amir Atighehchi",
+        "question": "Besides new accident victims, who else does Pathway target?",
         "options": [
-          "Retirees looking for passive income",
-          "Predominantly male, 18-35 (though best customers skew older), with at least $5k to invest",
-          "Corporate teams buying group licenses",
-          "Teenagers under 18 with parental permission"
+          "Insurance company employees",
+          "People already represented by another attorney who are unhappy with their communication or progress",
+          "Other law firms looking to partner",
+          "People who caused an accident, not victims"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Nouman Ali",
+        "question": "What does Nouman say makes Smells Plus different from competitors?",
+        "options": [
+          "Good price and better customer service",
+          "The largest physical retail footprint",
+          "A patented fragrance formula",
+          "Exclusive celebrity-designed scents"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Lumen Scholar",
+        "question": "What's Lumen Scholar's monthly ad budget?",
+        "options": [
+          "Up to $5,000/month",
+          "Up to $500/month",
+          "No set budget",
+          "Up to $50,000/month"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Shtefan Gurbanov",
+        "question": "What service area does JetPipe Plumbing cover?",
+        "options": [
+          "The greater Los Angeles area",
+          "The San Francisco Bay Area (Santa Clara, Sunnyvale, San Jose, Palo Alto, and surrounding cities)",
+          "The greater Sacramento area",
+          "The Pacific Northwest (Seattle/Portland)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Jeremy Zapata",
+        "question": "What was the total collected payment for Jeremy Zapata's plan?",
+        "options": [
+          "$5,000",
+          "$50,000",
+          "$1,000",
+          "$500"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Yousuf Osmani",
+        "question": "What language need did Scooter Importer specifically flag for their ads?",
+        "options": [
+          "They wanted ads exclusively in Mandarin",
+          "They said they definitely need Spanish ads",
+          "They wanted no spoken dialogue at all",
+          "They wanted ads only in formal business English"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Jeremy Marcus",
+        "question": "What's Duda Restoration's initial ad budget?",
+        "options": [
+          "$5,000",
+          "$500",
+          "$50",
+          "$50,000"
         ],
         "correctIndex": 1
       },
@@ -4623,39 +4634,6 @@
         "correctIndex": 1
       },
       {
-        "client": "Channelle Jumper",
-        "question": "What core idea does Signals use to explain why other brands fail?",
-        "options": [
-          "Other brands use artificial sweeteners",
-          "Other brands don't offer subscriptions",
-          "Other brands are priced too high",
-          "Other brands optimize for just ONE nutritional input, while Signals addresses every input the body's cells seek"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "William Da Silva",
-        "question": "Which age group does Psyhance describe as one of its strongest, most responsive demographics?",
-        "options": [
-          "Adults over 70",
-          "Children under 12",
-          "Teenage girls only",
-          "Young men ages 16-30"
-        ],
-        "correctIndex": 3
-      },
-      {
-        "client": "Mark Hopper",
-        "question": "Besides homeowners, who else does SnapTrack market to?",
-        "options": [
-          "Hardware store chains for wholesale",
-          "Interior designers",
-          "Real estate agents for home staging",
-          "Permanent lighting installers, especially Govee installers, via a referral directory"
-        ],
-        "correctIndex": 3
-      },
-      {
         "client": "Sydnei Kelly",
         "question": "What online discount does Bliss Marketplace offer new email subscribers?",
         "options": [
@@ -4667,24 +4645,68 @@
         "correctIndex": 0
       },
       {
-        "client": "Colin Shipp",
-        "question": "What does Colin say he's NOT confident about in his business?",
+        "client": "Lillie & Lee / Asher House Wellness",
+        "question": "Who are some of Lillie & Lee's named competitors?",
         "options": [
-          "His ad creative quality",
-          "His YouTube algorithm knowledge",
-          "The rest of his business - he's still plugging fulfillment holes and hiring an account manager",
-          "His pricing strategy"
+          "Native Pet, Charlotte's Web, Zesty Paws, Pet Honesty, and Chill Paws",
+          "Hill's Science Diet",
+          "Purina and Blue Buffalo",
+          "Chewy and Petco"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
       },
       {
-        "client": "Jomell Thomas",
-        "question": "What's GirlieVault's first-order discount code?",
+        "client": "Cosmo Grill #6",
+        "question": "What timezone is listed for the Split Pay contact?",
         "options": [
-          "GIRLPOWER",
-          "VAULT15",
-          "WELCOME20",
-          "GIVEBACK10"
+          "Asia/Dubai",
+          "Europe/Lisbon",
+          "America/Los_Angeles",
+          "America/New_York"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Loyal Saints",
+        "question": "Who is Loyal Saints' target customer?",
+        "options": [
+          "College students with first pets",
+          "Women 25-65, higher education, big cities, animal lovers who treat pets as family",
+          "Rural farm owners with working dogs",
+          "Breeders and kennel operators"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Sara Hasan",
+        "question": "What's the campaign goal for Next-Step Stool?",
+        "options": [
+          "Direct purchases for Black Friday/Cyber Monday",
+          "Getting product reviews on Amazon",
+          "Building an email newsletter list",
+          "Driving foot traffic to a physical store"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Jonathan Whipple",
+        "question": "What kind of prospect does Scaling Contractors explicitly NOT want?",
+        "options": [
+          "Contractors using CRM/tracking systems",
+          "Solopreneurs or 1-2 man operations with no CRM/tracking awareness",
+          "Contractors who reinvest profit into growth",
+          "Contractors with a professional phone process"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Titan Forge Peptides",
+        "question": "According to the questionnaire, what problem does Titan Forge aim to solve?",
+        "options": [
+          "Speeding up FDA approval for new peptides",
+          "Providing peptide dosing advice for consumers",
+          "Making peptides affordable for personal use",
+          "Making it easier for qualified researchers and labs to access reliable peptides with clear info and testing documentation"
         ],
         "correctIndex": 3
       },
@@ -4700,15 +4722,48 @@
         "correctIndex": 1
       },
       {
-        "client": "Funding Vault",
-        "question": "What's Funding Vault's current daily/monthly ad spend range?",
+        "client": "Never Inside / Smash Mount",
+        "question": "How did the founder originally start making Smash Mounts?",
         "options": [
-          "$10,000 initially, scaling toward $30,000+",
-          "$500,000/month",
-          "$1,000/year",
-          "$100 total for the whole campaign"
+          "He licensed the design from an automotive parts supplier",
+          "He got a 3D printer to experiment with and started selling a mount he made for his own truck on Etsy",
+          "He started by reselling a competitor's product",
+          "He raised funding specifically to manufacture it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "client": "Caleb Tsai - STXND",
+        "question": "What viral ad example did the client cite as working well, and why?",
+        "options": [
+          "Guys working on a plane - it worked because it was polarizing and people had strong opinions either way",
+          "A student studying all night - because it was relatable",
+          "A DJ using it at a music festival - because it was aspirational",
+          "A CEO in a boardroom - because it looked professional"
         ],
         "correctIndex": 0
+      },
+      {
+        "client": "Nero Intimate Care",
+        "question": "What's Nero's estimated customer lifetime value?",
+        "options": [
+          "Around $600",
+          "Around $60",
+          "Around $10",
+          "Around $6,000"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "client": "Nathan Young",
+        "question": "What's a competitor show The Next Contestant references, and what do they dislike about it?",
+        "options": [
+          "American Idol - they dislike the judging panel",
+          "Beast Games - the scale is so massive contestants can feel secondary to the spectacle",
+          "Survivor - they dislike the physical challenges",
+          "The Bachelor - they dislike the elimination format"
+        ],
+        "correctIndex": 1
       },
       {
         "client": "Ryan Sarakul",
@@ -4722,70 +4777,81 @@
         "correctIndex": 0
       },
       {
-        "client": "David Pasc",
-        "question": "How does David Pasc's project typically work, since \"no questionnaire\" is needed?",
+        "client": "Mark Hopper",
+        "question": "Besides homeowners, who else does SnapTrack market to?",
         "options": [
-          "AdVance writes 100% original scripts with no client input",
-          "The client only reviews finished videos, no input beforehand",
-          "AdVance sources all footage from stock video libraries",
-          "The client provides their own scripts and video examples per concept, and AdVance films and edits"
+          "Hardware store chains for wholesale",
+          "Interior designers",
+          "Real estate agents for home staging",
+          "Permanent lighting installers, especially Govee installers, via a referral directory"
         ],
         "correctIndex": 3
       },
       {
-        "client": "David Sabo",
-        "question": "Who is Precision Exterior Cleaning's target customer?",
+        "client": "Dustin Meier",
+        "question": "What disclaimer does 615 Peptides emphasize?",
         "options": [
-          "Homeowners and small-to-midsize commercial property owners, ages 30-65",
-          "New construction builders",
-          "Renters looking for move-out cleaning",
-          "Only large commercial property management firms"
+          "Products are only sold to licensed pharmacies",
+          "Products require a doctor's prescription",
+          "Products are for research use only, not for human consumption",
+          "Products are FDA-approved supplements"
         ],
-        "correctIndex": 0
+        "correctIndex": 2
       },
       {
-        "client": "Mikael & Evan",
-        "question": "What does GetListings.com say makes them different from competitors who also mention AI?",
+        "client": "American Air Heating & Cooling",
+        "question": "What's the most common reason American Air loses a job?",
         "options": [
-          "They use AI to actually generate leads and make money, not just for admin tasks",
-          "They exclusively serve commercial real estate",
-          "They only work with luxury real estate agents",
-          "They don't use AI at all, only human coaches"
+          "Limited service area",
+          "Slow response times",
+          "Poor online reviews",
+          "Pricing - they sit in the middle to upper end of the market"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
       },
       {
-        "client": "Jeremy Marcus",
-        "question": "What's Duda Restoration's initial ad budget?",
+        "client": "House of Cars MN",
+        "question": "What's House of Cars' daily ad budget?",
         "options": [
-          "$5,000",
-          "$500",
-          "$50",
-          "$50,000"
+          "About $1,500 a day",
+          "About $50 a day",
+          "About $15 a day",
+          "About $150 a day"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "client": "Ovadia Labaton #2",
+        "question": "What creative approach does The Perfect Jean specifically want avoided?",
+        "options": [
+          "Any female actors in the ads",
+          "Generic language like \"perfect for work, drinks, and errands\" that doesn't specifically speak to their brand",
+          "Any close-up product shots",
+          "Any humor in the scripts"
         ],
         "correctIndex": 1
       },
       {
-        "client": "Never Inside / Smash Mount",
-        "question": "What's Smash Mount's average customer lifetime value?",
+        "client": "Casey Woodard",
+        "question": "Who is Divine's target customer?",
         "options": [
-          "Around $61",
-          "Around $610",
-          "Around $6",
-          "Around $6,100"
-        ],
-        "correctIndex": 0
-      },
-      {
-        "client": "Lillie & Lee / Asher House Wellness",
-        "question": "Who are some of Lillie & Lee's named competitors?",
-        "options": [
-          "Purina and Blue Buffalo",
-          "Native Pet, Charlotte's Web, Zesty Paws",
-          "Chewy and Petco",
-          "Hill's Science Diet"
+          "Retirees looking for passive income",
+          "Predominantly male, 18-35 (though best customers skew older), with at least $5k to invest",
+          "Corporate teams buying group licenses",
+          "Teenagers under 18 with parental permission"
         ],
         "correctIndex": 1
+      },
+      {
+        "client": "Zack Bedingfield",
+        "question": "What's KonstructIQ's approximate daily ad budget?",
+        "options": [
+          "About $80,000",
+          "About $80",
+          "About $800",
+          "About $8,000"
+        ],
+        "correctIndex": 3
       }
     ]
   ]
